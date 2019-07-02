@@ -1,0 +1,50 @@
+/* Instagram Widget
+------------------------------------------------------------------------------------ */
+.widget_area ul.instagram-pics {
+    margin-right: -8px;
+}
+.widget_area ul.instagram-pics li {
+    float: left;
+    padding: 0;
+    margin: 0 8px 8px 0;
+    overflow: hidden;
+    width: 30%;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.widget_area ul.instagram-pics li:before {
+	display:none;
+}
+
+.widget_area .instagram-pics:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.widget_area ul.instagram-pics li a:after {
+    display: none;
+}
+
+.widget_area ul.instagram-pics li a {
+    display: block;
+    background-color: red;
+    border-radius: 50%;
+}
+.widget_area ul.instagram-pics li a img{
+    border-radius: 50%;
+    opacity: 1;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+.widget_area ul.instagram-pics li a:hover img {
+    opacity: 0.8;
+}
+.woocommerce-cart .custom_post_info_date {
+    display: none;
+}

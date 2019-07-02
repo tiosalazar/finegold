@@ -1,0 +1,41 @@
+Version 1.4
+	Added:
+        - WP GDPR Compliance plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+
+    Fixed:
+        - Compatibility with Gutenberg and other PageBuilders
+        - Update plugins to their latest versions
+        - Improve theme styles
+
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+
+
+Version 1.0.6
+- WordPress Version 4.9.2 ready
+- Compatibility with PHP7
+- Plugins updated
+
+Version 1.0.5
+- Plugins updated
+- WooCommerce compatibility updated
+- TGMPA fixed
+
+Version 1.0.4
+- The theme is now compatible with version WooCommerce 3.0 and higher
+- Child Theme updated
+
+Version 1.0.3
+- Responsive fix
+
+Version 1.0.2
+- Responsive fix
+
+Version 1.0.1
+- Plugins updated
+- Style Improved
+
+Version 1.0
+Release

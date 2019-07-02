@@ -1,0 +1,7268 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Planmyday\n"
+"POT-Creation-Date: 2018-08-03 12:55+0300\n"
+"PO-Revision-Date: 2016-10-18 15:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__;_x;_n_noop;_n;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;esc_attr_x;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog.php:165 blog.php:172
+msgid "All"
+msgstr ""
+
+#: blog.php:205
+msgid "LOAD MORE"
+msgstr ""
+
+#: blog.php:205
+msgid "Loading ..."
+msgstr ""
+
+#: comments.php:24 comments.php:65
+msgid "Comment"
+msgstr ""
+
+#: comments.php:24 fw/core/core.lists.php:703 templates/_parts/counters.php:41
+#: templates/_parts/widgets-posts.php:107
+#: templates/trx_blogger/accordion.php:50 templates/trx_blogger/date.php:54
+msgid "Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:41
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:75 comments.php:76
+msgid "Your Message"
+msgstr ""
+
+#: comments.php:84 comments.php:94 comments.php:95 plugins/support.team.php:949
+#: plugins/support.team.php:1367 templates/trx_form/form_1.php:52
+#: templates/trx_form/form_2.php:52
+msgid "Name"
+msgstr ""
+
+#: comments.php:102
+msgid "Email"
+msgstr ""
+
+#: comments.php:112 comments.php:113 plugins/support.team.php:63
+#: plugins/support.team.php:990 plugins/support.team.php:1385
+#: plugins/support.testimonials.php:696 plugins/support.testimonials.php:1050
+#: templates/trx_form/form_1.php:63 templates/trx_form/form_2.php:63
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:120 comments.php:130 comments.php:131
+msgid "Website"
+msgstr ""
+
+#: footer.php:105
+msgid "Phone:"
+msgstr ""
+
+#: footer.php:106
+msgid "Fax:"
+msgstr ""
+
+#: functions.php:131
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:136
+msgid "WooCommerce Cart Sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "ThemeRex Utilities"
+msgstr ""
+
+#: functions.php:196
+msgid "Planmyday Demo"
+msgstr ""
+
+#: functions.php:337
+msgid "Scroll to top"
+msgstr ""
+
+#: functions.php:376 fw/core/core.wp.php:2372
+#, php-format
+msgid "For further details on handling user data, see our %s"
+msgstr ""
+
+#: functions.php:378 fw/core/core.wp.php:2374
+msgid "Privacy Policy"
+msgstr ""
+
+#: fw/core/core.admin.php:60 fw/core/core.messages.php:98
+msgid "Invalid server answer"
+msgstr ""
+
+#: fw/core/core.admin.php:61
+msgid "Errors that occurred during the import process:"
+msgstr ""
+
+#: fw/core/core.admin.php:92 includes/theme.options.php:764
+#: plugins/support.services.php:655 plugins/support.services.php:1000
+#: plugins/support.team.php:845 plugins/support.team.php:1209
+#: plugins/support.testimonials.php:575 plugins/support.testimonials.php:879
+msgid "- Select category -"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:61
+msgid "Background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:62
+msgid "Used only if \"Content - Body style\" equal to \"boxed\""
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:74
+#: fw/core/core.customizer.wp/core.customizer.wp.php:137
+#: fw/core/core.customizer/core.customizer.php:431
+#: includes/theme.options.php:197 plugins/support.testimonials.php:636
+#: plugins/support.testimonials.php:970
+msgid "Background color"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:90
+#: fw/core/core.customizer/front.customizer.php:42
+#: includes/theme.options.php:163 includes/theme.options.php:928
+#: includes/theme.options.php:1013 includes/theme.options.php:1063
+#: includes/theme.options.php:1103 includes/theme.options.php:1244
+#: includes/theme.options.php:1314 plugins/support.services.php:569
+#: plugins/support.services.php:854 plugins/support.team.php:759
+#: plugins/support.team.php:1083 plugins/support.testimonials.php:629
+#: plugins/support.testimonials.php:961
+msgid "Color scheme"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:91
+msgid ""
+"<b>Simple settings</b> - you can change only accented color, used for links, "
+"buttons and some accented areas."
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:93
+msgid ""
+"<b>Advanced settings</b> - change all scheme's colors and get full control "
+"over the appearance of your site!"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:99
+msgid "Color settings"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:103
+#: includes/theme.shortcodes.php:13
+msgid "Simple"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:104
+msgid "Advanced"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:111
+msgid "Color Scheme"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:112
+msgid "Select color scheme to decorate whole site at once"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:120
+msgid "Colors storage"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:121
+msgid ""
+"Hidden storage of the all color from the all color shemes (only for internal "
+"usage)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:128
+msgid "Colors for the main content"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:129
+msgid "Specify colors for the main content (not for alter blocks)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:138
+msgid "Background color of the whole page"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:147
+#: fw/core/core.customizer/core.customizer.php:406
+#: fw/core/core.customizer/core.customizer.php:841
+#: fw/core/core.customizer/core.customizer.php:976
+msgid "Border color"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:148
+msgid "Color of the bordered elements, separators, etc."
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:158
+#: fw/core/core.customizer/core.customizer.php:644
+#: fw/core/core.customizer/core.customizer.php:652
+#: fw/core/core.customizer/core.customizer.php:733
+#: fw/core/core.customizer/core.customizer.php:802
+#: fw/core/core.customizer/core.customizer.php:916 fw/core/core.lists.php:851
+#: includes/theme.options.php:1307 includes/theme.styles.php:311
+msgid "Text"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:159
+msgid "Plain text color on single page/post"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:168
+msgid "Light text"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:169
+msgid "Color of the post meta: post date and author, comments number, etc."
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:178
+msgid "Dark text"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:179
+msgid "Color of the headers, strong text, etc."
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:188
+#: fw/core/core.customizer/core.customizer.php:947
+#: includes/theme.styles.php:323
+msgid "Links"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:189
+msgid "Color of links and accented areas"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:195
+msgid "Links hover"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:196
+msgid "Hover color for links and accented areas"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:203
+msgid "Colors for alternative blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:204
+msgid ""
+"Specify colors for alternative blocks - rectangular blocks with its own "
+"background color (posts in homepage, blog archive, search results, widgets "
+"on sidebar, footer, etc.)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:212
+msgid "Alter background color"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:213
+msgid "Background color of the alternative blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:222
+msgid "Alter hovered background color"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:223
+msgid "Background color for the hovered state of the alternative blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:232
+msgid "Alternative border color"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:233
+msgid "Border color of the alternative blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:242
+msgid "Alternative hovered border color"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:243
+msgid "Border color for the hovered state of the alter blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:252
+msgid "Alter text"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:253
+msgid "Text color of the alternative blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:262
+msgid "Alter light"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:263
+msgid "Color of the info blocks inside block with alternative background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:272
+msgid "Alter dark"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:273
+msgid "Color of the headers inside block with alternative background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:282
+msgid "Alter link"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:283
+msgid "Color of the links inside block with alternative background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:292
+msgid "Alter hover"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:293
+msgid "Color of the hovered links inside block with alternative background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:303
+msgid "Colors for the form fields"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:304
+msgid "Specify colors for the form fields and textareas"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:312
+msgid "Inactive background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:313
+msgid "Background color of the inactive form fields"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:322
+msgid "Active background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:323
+msgid "Background color of the focused form fields"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:332
+msgid "Inactive border"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:333
+msgid "Color of the border in the inactive form fields"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:342
+msgid "Active border"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:343
+msgid "Color of the border in the focused form fields"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:352
+msgid "Inactive field"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:353
+msgid "Color of the text in the inactive fields"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:362
+msgid "Disabled field"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:363
+msgid "Color of the disabled field"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:372
+msgid "Active field"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:373
+msgid "Color of the active field"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:383
+msgid "Colors for inverse blocks"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:384
+msgid ""
+"Specify colors for inverse blocks, rectangular blocks with background color "
+"equal to the links color or one of accented colors (if used in the current "
+"theme)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:392
+#: fw/core/core.customizer/core.customizer.php:725
+msgid "Inverse text"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:393
+msgid "Color of the text inside block with accented background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:402
+msgid "Inverse light"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:403
+msgid "Color of the info blocks inside block with accented background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:412
+msgid "Inverse dark"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:413
+msgid "Color of the headers inside block with accented background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:422
+msgid "Inverse link"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:423
+msgid "Color of the links inside block with accented background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:432
+msgid "Inverse hover"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:433
+msgid "Color of the hovered links inside block with accented background"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:454
+#: fw/core/core.customizer/core.customizer.php:1116
+#: fw/core/core.customizer/core.customizer.php:1860 fw/core/core.lists.php:20
+#: fw/core/core.lists.php:45 fw/core/core.lists.php:64
+#: fw/core/core.lists.php:89 fw/core/core.lists.php:105
+#: fw/core/core.lists.php:121 fw/core/core.lists.php:145
+#: fw/core/core.lists.php:164 fw/core/core.lists.php:184
+#: fw/core/core.lists.php:202 fw/core/core.lists.php:233
+#: fw/core/core.lists.php:268 fw/core/core.lists.php:280
+#: fw/core/core.lists.php:328 fw/core/core.lists.php:378
+#: fw/core/core.lists.php:393 fw/core/core.lists.php:411
+#: fw/core/core.lists.php:438 fw/core/core.lists.php:456
+#: fw/core/core.lists.php:467 fw/core/core.lists.php:482
+#: fw/core/core.lists.php:511 fw/core/core.lists.php:545
+#: fw/core/core.lists.php:556 fw/core/core.lists.php:567
+#: fw/core/core.lists.php:578 fw/core/core.lists.php:589
+#: fw/core/core.lists.php:603 fw/core/core.lists.php:621
+#: fw/core/core.lists.php:636 fw/core/core.lists.php:690
+#: fw/core/core.lists.php:708 fw/core/core.lists.php:730
+#: fw/core/core.lists.php:752 fw/core/core.lists.php:770
+#: fw/core/core.lists.php:792 fw/core/core.lists.php:809
+#: fw/core/core.lists.php:825 fw/core/core.lists.php:842
+#: fw/core/core.lists.php:864 fw/core/core.lists.php:878
+#: fw/core/core.lists.php:907 fw/core/core.lists.php:918
+#: fw/core/core.lists.php:929 fw/core/core.lists.php:940
+#: fw/core/core.lists.php:951 fw/core/core.lists.php:962
+#: fw/core/core.lists.php:973 fw/core/core.lists.php:986
+#: fw/core/core.lists.php:998 fw/core/core.lists.php:1010
+#: fw/core/core.lists.php:1024 fw/core/core.lists.php:1035
+#: fw/core/core.lists.php:1046 fw/core/core.lists.php:1066
+#: fw/core/core.lists.php:1127 fw/core/core.lists.php:1145
+#: fw/core/core.lists.php:1195 fw/core/core.lists.php:1259
+#: fw/core/core.options/core.options.php:1421 plugins/plugin.revslider.php:273
+msgid "Inherit"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:455
+#: fw/core/core.customizer/core.customizer.php:1117
+msgid "100 (Light)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:456
+#: fw/core/core.customizer/core.customizer.php:1118
+msgid "300 (Thin)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:457
+#: fw/core/core.customizer/core.customizer.php:1119
+msgid "400 (Normal)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:458
+#: fw/core/core.customizer/core.customizer.php:1120
+msgid "500 (Semibold)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:459
+#: fw/core/core.customizer/core.customizer.php:1121
+msgid "600 (Semibold)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:460
+#: fw/core/core.customizer/core.customizer.php:1122
+msgid "700 (Bold)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:461
+#: fw/core/core.customizer/core.customizer.php:1123
+msgid "900 (Black)"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:465
+#: fw/core/core.customizer/core.customizer.php:1097
+msgid "Fonts"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:466
+msgid "Font settings for the headers, plain text, logo, menu, etc."
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:473
+#, php-format
+msgid "Select font-family, size and style for %s"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:487
+#: fw/core/core.customizer/core.customizer.php:1140
+msgid "Size"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:495
+#: fw/core/core.customizer/core.customizer.php:1150
+#: fw/core/core.customizer/core.customizer.php:1159
+msgid "Line height"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:503
+#: fw/core/core.customizer/core.customizer.php:1167
+msgid "Weight"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:512
+#: fw/core/core.customizer/core.customizer.php:1178
+msgid "Style"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:521
+#: fw/core/core.customizer/core.customizer.php:1190
+#: fw/core/core.customizer/core.customizer.php:1199
+msgid "Margin Top"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:529
+#: fw/core/core.customizer/core.customizer.php:1207
+#: fw/core/core.customizer/core.customizer.php:1216
+msgid "Margin Bottom"
+msgstr ""
+
+#: fw/core/core.customizer.wp/core.customizer.wp.php:975
+msgid "Refresh"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.demo.php:2
+msgid "Pin/Unpin demo-block by the right side of the window"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:61
+#: fw/core/core.customizer/core.customizer.php:62
+#: fw/core/core.customizer/core.customizer.php:1234
+msgid "Fonts & Colors"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:193
+msgid "You cannot delete last color scheme!"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:195
+#: fw/core/core.customizer/core.customizer.php:243
+#, php-format
+msgid "Color Scheme %s not found!"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:235
+msgid "(Copy)"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:293
+msgid "Color schemes"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:317
+#, php-format
+msgid "Color scheme \"%s\""
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:318
+#, php-format
+msgid ""
+"Specify the color for each element in the scheme \"%s\". After that you will "
+"be able to use your color scheme for the entire page, any part thereof and/"
+"or for the shortcodes!"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:327
+msgid ""
+"You can duplicate current color scheme (appear on new tab) or delete it (if "
+"not last scheme)"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:334
+msgid "Copy"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:343
+#: templates/_parts/post-info.php:60
+msgid "Delete"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:357
+msgid "Scheme names"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:358
+msgid ""
+"Specify scheme title (to represent this color scheme in the lists) and "
+"scheme slug (to use this color scheme in the shortcodes).<br>Attention! If "
+"you change scheme title or slug - you must save options (press Save), then "
+"reload the page (press F5) after the success saving message appear!"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:365
+#: plugins/plugin.woocommerce.php:1024 plugins/plugin.woocommerce.php:1068
+#: plugins/plugin.woocommerce.php:1104 plugins/plugin.woocommerce.php:1148
+#: plugins/plugin.woocommerce.php:1192 plugins/plugin.woocommerce.php:1236
+#: plugins/plugin.woocommerce.php:1303 plugins/plugin.woocommerce.php:1347
+#: plugins/plugin.woocommerce.php:1403 plugins/plugin.woocommerce.php:1777
+#: plugins/plugin.woocommerce.php:1837 plugins/plugin.woocommerce.php:1888
+#: plugins/plugin.woocommerce.php:1948 plugins/plugin.woocommerce.php:2008
+#: plugins/plugin.woocommerce.php:2068 plugins/plugin.woocommerce.php:2159
+#: plugins/plugin.woocommerce.php:2220 plugins/plugin.woocommerce.php:2298
+#: plugins/support.services.php:505 plugins/support.services.php:744
+#: plugins/support.services.php:964 plugins/support.services.php:1144
+#: plugins/support.team.php:725 plugins/support.team.php:1173
+#: plugins/support.testimonials.php:462 plugins/support.testimonials.php:843
+#: templates/_parts/editor-area.php:19
+msgid "Title"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:374
+msgid "Slug"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:387
+msgid "Usage demo"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:388
+msgid ""
+"Below you can see the example of decoration of the page with selected colors."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:399
+msgid "Page/Block decoration"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:400
+msgid ""
+"Specify border and background to decorate whole page (if scheme accepted to "
+"the page) or entire block/section."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:407
+msgid "Select the border color and it hover state"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:414
+#: fw/core/core.customizer/core.customizer.php:439
+#: fw/core/core.customizer/core.customizer.php:849
+#: fw/core/core.customizer/core.customizer.php:878
+#: fw/core/core.customizer/core.customizer.php:955
+#: fw/core/core.customizer/core.customizer.php:984
+#: fw/core/core.customizer/core.customizer.php:1013
+msgid "Color"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:432
+msgid "Select the background color and it hover state"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:459
+#: fw/core/core.customizer/core.customizer.php:1035
+#: fw/core/core.customizer/front.customizer.php:73
+msgid "Background image"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:460
+msgid "Select first background image and it display parameters"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:467
+#: fw/core/core.customizer/core.customizer.php:521
+#: fw/core/core.customizer/core.customizer.php:1043 fw/core/core.lists.php:59
+#: plugins/support.services.php:862 plugins/support.services.php:1162
+msgid "Image"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:482
+#: fw/core/core.customizer/core.customizer.php:536
+#: fw/core/core.customizer/core.customizer.php:1058 plugins/support.team.php:51
+#: plugins/support.team.php:960 plugins/support.team.php:1376
+msgid "Position"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:492
+#: fw/core/core.customizer/core.customizer.php:546
+#: fw/core/core.customizer/core.customizer.php:1068 fw/core/core.lists.php:802
+msgid "Repeat"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:502
+#: fw/core/core.customizer/core.customizer.php:556
+#: fw/core/core.customizer/core.customizer.php:1078
+msgid "Attachment"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:513
+msgid "Background image 2"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:514
+msgid "Select second background image and it display parameters"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:571
+msgid "Accented colors"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:572
+msgid "Specify colors for the accented areas in your site."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:578
+msgid "Accent 2"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:579
+#: fw/core/core.customizer/core.customizer.php:608
+msgid "Select color for accented elements and their hover state"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:607
+msgid "Accent 3"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:637
+#: fw/core/core.customizer/core.customizer.php:908
+msgid "Text and Headers"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:638
+msgid "Specify colors for the plain text, post info blocks and headers"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:645
+msgid ""
+"Select colors for the text: normal text color, light text (for example - "
+"post info) and dark text (headers, bold text, etc.)"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:662
+#: fw/core/core.customizer/core.customizer.php:743
+#: fw/core/core.customizer/core.customizer.php:926 fw/core/core.lists.php:836
+msgid "Light"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:672
+#: fw/core/core.customizer/core.customizer.php:753
+#: fw/core/core.customizer/core.customizer.php:936 fw/core/core.lists.php:837
+#: includes/theme.shortcodes.php:17 includes/theme.styles.php:137
+msgid "Dark"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:686
+msgid "Text links"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:687
+msgid "Select color for the links and their hover state"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:695
+#: fw/core/core.customizer/core.customizer.php:771
+#: plugins/support.services.php:768 plugins/support.services.php:1170
+#: plugins/support.team.php:942 plugins/support.team.php:1359
+#: plugins/support.testimonials.php:690 plugins/support.testimonials.php:1042
+msgid "Link"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:705
+#: fw/core/core.customizer/core.customizer.php:781
+#: fw/core/core.customizer/core.customizer.php:859
+#: fw/core/core.customizer/core.customizer.php:888
+#: fw/core/core.customizer/core.customizer.php:965
+#: fw/core/core.customizer/core.customizer.php:994
+#: fw/core/core.customizer/core.customizer.php:1023
+msgid "Hover"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:718
+msgid "Inverse blocks"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:719
+msgid ""
+"Specify colors for the headers, plain text, links and post info blocks in "
+"the accented areas (with background color equal to text link)"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:726
+msgid "Select colors for inversed text (text on accented background)"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:763
+msgid "Inverse links"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:764
+msgid "Select colors for inversed links (links on accented background)"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:795
+msgid "Input colors: form fields and textareas"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:796
+msgid "Specify colors to decorate input fields in the forms"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:803
+msgid ""
+"Specify colors for the input fields for all states: disabled, inactive, "
+"active"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:810
+msgid "Inactive"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:820
+msgid "Disabled"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:830
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:842
+msgid ""
+"Select the border colors for the normal state and for active (focused) field"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:870
+#: fw/core/core.customizer/core.customizer.php:1005
+msgid "Background Color"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:871
+msgid ""
+"Select the background colors for the normal state and for active (focused) "
+"field"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:901
+msgid "Alternative colors: Highlighted areas, submenu items, etc."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:902
+msgid ""
+"Specify colors to decorate highlighted blocks in the text, submenu items, "
+"etc."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:909
+msgid ""
+"Specify colors for the plain text, post info blocks and headers in the "
+"highlight blocks"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:948
+msgid "Specify colors for the links in the highlight blocks"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:977
+msgid "Select the border colors for the normal and hovered state"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1006
+msgid "Select the background colors for the normal and hovered state"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1036
+msgid "Select alter background image and it display parameters"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1107
+msgid "Typography settings"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1108
+msgid ""
+"Select fonts, sizes and styles for the headings and paragraphs. You can use "
+"Google fonts and custom fonts.<br><br>How to install custom @font-face fonts "
+"into the theme?<br>All @font-face fonts are located in \"theme_name/css/font-"
+"face/\" folder in the separate subfolders for the each font. Subfolder name "
+"is a font-family name!<br>Place full set of the font files (for each font "
+"style and weight) and css-file named stylesheet.css in the each subfolder."
+"<br>Create your @font-face kit by using Fontsquirrel @font-face Generator "
+"(or any other) and then extract the font kit (with folder in the kit) into "
+"the \"theme_name/css/font-face\" folder to install."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1236
+msgid "Fonts settings & Color schemes"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1237
+msgid "Customize fonts and colors for your site."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1277
+#: fw/core/core.customizer/core.customizer.php:1327
+#: includes/theme.styles.no_less.php:305
+msgid "uploaded font"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1720
+msgid "Delete color scheme"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1721
+msgid "Do you really want to delete this color scheme?"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1722
+msgid "Current color scheme is successfully deleted!"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1723
+msgid "Error while delete color scheme! Try again later."
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1724
+msgid "Copy color scheme"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1725
+msgid "Duplicate this color scheme?"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1726
+msgid "Current color scheme is successfully duplicated!"
+msgstr ""
+
+#: fw/core/core.customizer/core.customizer.php:1727
+msgid "Error while duplicate color scheme! Try again later."
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:22
+msgid "Style switcher"
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:23
+msgid "Reset to defaults"
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:23
+msgid "RESET"
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:33
+msgid "Body styles"
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:36 fw/core/core.lists.php:598
+#: includes/theme.options.php:299 includes/theme.options.php:703
+msgid "Boxed"
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:37 fw/core/core.lists.php:502
+msgid "Wide"
+msgstr ""
+
+#: fw/core/core.customizer/front.customizer.php:58
+msgid "Background pattern"
+msgstr ""
+
+#: fw/core/core.date.php:49
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: fw/core/core.date.php:49
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: fw/core/core.date.php:77
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: fw/core/core.date.php:77
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: fw/core/core.date.php:79
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: fw/core/core.date.php:79
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: fw/core/core.date.php:81
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: fw/core/core.date.php:81
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: fw/core/core.date.php:83
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: fw/core/core.date.php:83
+#, php-format
+msgid "%s minute"
+msgstr ""
+
+#: fw/core/core.date.php:85
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: fw/core/core.date.php:85
+#, php-format
+msgid "%s second"
+msgstr ""
+
+#: fw/core/core.date.php:85
+msgid "less then minute"
+msgstr ""
+
+#: fw/core/core.date.php:99
+msgid "January"
+msgstr ""
+
+#: fw/core/core.date.php:100
+msgid "February"
+msgstr ""
+
+#: fw/core/core.date.php:101
+msgid "March"
+msgstr ""
+
+#: fw/core/core.date.php:102
+msgid "April"
+msgstr ""
+
+#: fw/core/core.date.php:103 fw/core/core.date.php:115
+msgid "May"
+msgstr ""
+
+#: fw/core/core.date.php:104
+msgid "June"
+msgstr ""
+
+#: fw/core/core.date.php:105
+msgid "July"
+msgstr ""
+
+#: fw/core/core.date.php:106
+msgid "August"
+msgstr ""
+
+#: fw/core/core.date.php:107
+msgid "September"
+msgstr ""
+
+#: fw/core/core.date.php:108
+msgid "October"
+msgstr ""
+
+#: fw/core/core.date.php:109
+msgid "November"
+msgstr ""
+
+#: fw/core/core.date.php:110
+msgid "December"
+msgstr ""
+
+#: fw/core/core.date.php:111
+msgid "Jan"
+msgstr ""
+
+#: fw/core/core.date.php:112
+msgid "Feb"
+msgstr ""
+
+#: fw/core/core.date.php:113
+msgid "Mar"
+msgstr ""
+
+#: fw/core/core.date.php:114
+msgid "Apr"
+msgstr ""
+
+#: fw/core/core.date.php:116
+msgid "Jun"
+msgstr ""
+
+#: fw/core/core.date.php:117
+msgid "Jul"
+msgstr ""
+
+#: fw/core/core.date.php:118
+msgid "Aug"
+msgstr ""
+
+#: fw/core/core.date.php:119
+msgid "Sep"
+msgstr ""
+
+#: fw/core/core.date.php:120
+msgid "Oct"
+msgstr ""
+
+#: fw/core/core.date.php:121
+msgid "Nov"
+msgstr ""
+
+#: fw/core/core.date.php:122
+msgid "Dec"
+msgstr ""
+
+#: fw/core/core.files.php:202
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Put contents to the file \"%s\" failed"
+msgstr ""
+
+#: fw/core/core.files.php:219
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Get contents from the file \"%s\" failed"
+msgstr ""
+
+#: fw/core/core.files.php:236
+#, php-format
+msgid "WP Filesystem is not initialized! Get rows from the file \"%s\" failed"
+msgstr ""
+
+#: fw/core/core.lists.php:19
+#, php-format
+msgid "Style %d"
+msgstr ""
+
+#: fw/core/core.lists.php:30
+msgid "0 (No margin)"
+msgstr ""
+
+#: fw/core/core.lists.php:31 fw/core/core.lists.php:981
+msgid "Tiny"
+msgstr ""
+
+#: fw/core/core.lists.php:32 fw/core/core.lists.php:982
+msgid "Small"
+msgstr ""
+
+#: fw/core/core.lists.php:33 fw/core/core.lists.php:983
+msgid "Medium"
+msgstr ""
+
+#: fw/core/core.lists.php:34 fw/core/core.lists.php:984
+msgid "Large"
+msgstr ""
+
+#: fw/core/core.lists.php:35
+msgid "Huge"
+msgstr ""
+
+#: fw/core/core.lists.php:36
+msgid "Tiny (negative)"
+msgstr ""
+
+#: fw/core/core.lists.php:37
+msgid "Small (negative)"
+msgstr ""
+
+#: fw/core/core.lists.php:38
+msgid "Medium (negative)"
+msgstr ""
+
+#: fw/core/core.lists.php:39
+msgid "Large (negative)"
+msgstr ""
+
+#: fw/core/core.lists.php:40
+msgid "Huge (negative)"
+msgstr ""
+
+#: fw/core/core.lists.php:55
+msgid "Solid"
+msgstr ""
+
+#: fw/core/core.lists.php:56
+msgid "Dashed"
+msgstr ""
+
+#: fw/core/core.lists.php:57
+msgid "Dotted"
+msgstr ""
+
+#: fw/core/core.lists.php:58
+msgid "Double"
+msgstr ""
+
+#: fw/core/core.lists.php:74 fw/core/core.lists.php:99
+#: fw/core/core.lists.php:115
+msgid "- None -"
+msgstr ""
+
+#: fw/core/core.lists.php:75
+msgid "Bounce"
+msgstr ""
+
+#: fw/core/core.lists.php:76
+msgid "Elastic"
+msgstr ""
+
+#: fw/core/core.lists.php:77
+msgid "Flash"
+msgstr ""
+
+#: fw/core/core.lists.php:78
+msgid "Flip"
+msgstr ""
+
+#: fw/core/core.lists.php:79
+msgid "Pulse"
+msgstr ""
+
+#: fw/core/core.lists.php:80
+msgid "Rubber Band"
+msgstr ""
+
+#: fw/core/core.lists.php:81
+msgid "Shake"
+msgstr ""
+
+#: fw/core/core.lists.php:82
+msgid "Swing"
+msgstr ""
+
+#: fw/core/core.lists.php:83
+msgid "Tada"
+msgstr ""
+
+#: fw/core/core.lists.php:84
+msgid "Wobble"
+msgstr ""
+
+#: fw/core/core.lists.php:100
+msgid "Fade In"
+msgstr ""
+
+#: fw/core/core.lists.php:116
+msgid "Fade Out"
+msgstr ""
+
+#: fw/core/core.lists.php:140 fw/core/core.lists.php:156
+msgid "Fade"
+msgstr ""
+
+#: fw/core/core.lists.php:155 fw/core/core.lists.php:174
+#: fw/core/core.lists.php:194 fw/core/core.lists.php:447
+#: fw/core/core.lists.php:873
+msgid "Default"
+msgstr ""
+
+#: fw/core/core.lists.php:157
+msgid "Slide from Left"
+msgstr ""
+
+#: fw/core/core.lists.php:158
+msgid "Slide from Top"
+msgstr ""
+
+#: fw/core/core.lists.php:159
+msgid "Arrow"
+msgstr ""
+
+#: fw/core/core.lists.php:175
+msgid "Accented"
+msgstr ""
+
+#: fw/core/core.lists.php:176
+msgid "Path"
+msgstr ""
+
+#: fw/core/core.lists.php:177
+msgid "Jump"
+msgstr ""
+
+#: fw/core/core.lists.php:178
+msgid "Underline"
+msgstr ""
+
+#: fw/core/core.lists.php:179
+msgid "Iconed"
+msgstr ""
+
+#: fw/core/core.lists.php:195 fw/core/core.lists.php:506
+#: includes/theme.options.php:705
+msgid "Fullscreen"
+msgstr ""
+
+#: fw/core/core.lists.php:196 includes/theme.options.php:845
+msgid "Slide"
+msgstr ""
+
+#: fw/core/core.lists.php:197
+msgid "Expand"
+msgstr ""
+
+#: fw/core/core.lists.php:302 fw/core/core.lists.php:354
+msgid "- Not selected -"
+msgstr ""
+
+#: fw/core/core.lists.php:388
+msgid "Posts slider (Swiper)"
+msgstr ""
+
+#: fw/core/core.lists.php:403 fw/core/core.lists.php:1006
+#: fw/core/core.lists.php:1018 fw/core/core.lists.php:1075
+#: includes/theme.options.php:828 includes/theme.options.php:844
+msgid "None"
+msgstr ""
+
+#: fw/core/core.lists.php:404 fw/core/core.lists.php:995
+msgid "Side"
+msgstr ""
+
+#: fw/core/core.lists.php:405 fw/core/core.lists.php:763
+#: fw/core/core.lists.php:996 fw/core/core.lists.php:1045
+msgid "Bottom"
+msgstr ""
+
+#: fw/core/core.lists.php:406
+msgid "Pagination"
+msgstr ""
+
+#: fw/core/core.lists.php:432
+msgid "Pretty photo"
+msgstr ""
+
+#: fw/core/core.lists.php:433
+msgid "Magnific popup"
+msgstr ""
+
+#: fw/core/core.lists.php:476 fw/core/core.lists.php:630
+#: fw/core/core.lists.php:938 fw/core/core.lists.php:994
+#: includes/theme.options.php:410 includes/theme.options.php:1306
+#: includes/theme.options.php:1948 plugins/plugin.woocommerce.php:126
+msgid "Hide"
+msgstr ""
+
+#: fw/core/core.lists.php:477 fw/core/core.lists.php:764
+#: fw/core/core.lists.php:1019 fw/core/core.lists.php:1032
+msgid "Left"
+msgstr ""
+
+#: fw/core/core.lists.php:478 fw/core/core.lists.php:1021
+#: fw/core/core.lists.php:1034
+msgid "Right"
+msgstr ""
+
+#: fw/core/core.lists.php:505 includes/theme.options.php:704
+msgid "Fullwide"
+msgstr ""
+
+#: fw/core/core.lists.php:599
+msgid "Stretch"
+msgstr ""
+
+#: fw/core/core.lists.php:612 fw/core/support.post.php:424
+msgid "All posts"
+msgstr ""
+
+#: fw/core/core.lists.php:613
+msgid "With thumbs"
+msgstr ""
+
+#: fw/core/core.lists.php:614
+msgid "With reviews"
+msgstr ""
+
+#: fw/core/core.lists.php:615
+msgid "With videos"
+msgstr ""
+
+#: fw/core/core.lists.php:616
+msgid "With audios"
+msgstr ""
+
+#: fw/core/core.lists.php:617
+msgid "With galleries"
+msgstr ""
+
+#: fw/core/core.lists.php:631
+msgid "Tags"
+msgstr ""
+
+#: fw/core/core.lists.php:632 plugins/plugin.woocommerce.php:1248
+#: plugins/plugin.woocommerce.php:2083 plugins/support.services.php:645
+#: plugins/support.services.php:992 plugins/support.team.php:835
+#: plugins/support.team.php:1201 plugins/support.testimonials.php:565
+#: plugins/support.testimonials.php:871
+msgid "Categories"
+msgstr ""
+
+#: fw/core/core.lists.php:645
+msgid "Circle Effect 1"
+msgstr ""
+
+#: fw/core/core.lists.php:646
+msgid "Circle Effect 2"
+msgstr ""
+
+#: fw/core/core.lists.php:647
+msgid "Circle Effect 3"
+msgstr ""
+
+#: fw/core/core.lists.php:648
+msgid "Circle Effect 4"
+msgstr ""
+
+#: fw/core/core.lists.php:649
+msgid "Circle Effect 5"
+msgstr ""
+
+#: fw/core/core.lists.php:650
+msgid "Circle Effect 6"
+msgstr ""
+
+#: fw/core/core.lists.php:651
+msgid "Circle Effect 7"
+msgstr ""
+
+#: fw/core/core.lists.php:652
+msgid "Circle Effect 8"
+msgstr ""
+
+#: fw/core/core.lists.php:653
+msgid "Circle Effect 9"
+msgstr ""
+
+#: fw/core/core.lists.php:654
+msgid "Circle Effect 10"
+msgstr ""
+
+#: fw/core/core.lists.php:655
+msgid "Circle Effect 11"
+msgstr ""
+
+#: fw/core/core.lists.php:656
+msgid "Circle Effect 12"
+msgstr ""
+
+#: fw/core/core.lists.php:657
+msgid "Circle Effect 13"
+msgstr ""
+
+#: fw/core/core.lists.php:658
+msgid "Circle Effect 14"
+msgstr ""
+
+#: fw/core/core.lists.php:659
+msgid "Circle Effect 15"
+msgstr ""
+
+#: fw/core/core.lists.php:660
+msgid "Circle Effect 16"
+msgstr ""
+
+#: fw/core/core.lists.php:661
+msgid "Circle Effect 17"
+msgstr ""
+
+#: fw/core/core.lists.php:662
+msgid "Circle Effect 18"
+msgstr ""
+
+#: fw/core/core.lists.php:663
+msgid "Circle Effect 19"
+msgstr ""
+
+#: fw/core/core.lists.php:664
+msgid "Circle Effect 20"
+msgstr ""
+
+#: fw/core/core.lists.php:665
+msgid "Square Effect 1"
+msgstr ""
+
+#: fw/core/core.lists.php:666
+msgid "Square Effect 2"
+msgstr ""
+
+#: fw/core/core.lists.php:667
+msgid "Square Effect 3"
+msgstr ""
+
+#: fw/core/core.lists.php:668
+msgid "Square Effect 5"
+msgstr ""
+
+#: fw/core/core.lists.php:669
+msgid "Square Effect 6"
+msgstr ""
+
+#: fw/core/core.lists.php:670
+msgid "Square Effect 7"
+msgstr ""
+
+#: fw/core/core.lists.php:671
+msgid "Square Effect 8"
+msgstr ""
+
+#: fw/core/core.lists.php:672
+msgid "Square Effect 9"
+msgstr ""
+
+#: fw/core/core.lists.php:673
+msgid "Square Effect 10"
+msgstr ""
+
+#: fw/core/core.lists.php:674
+msgid "Square Effect 11"
+msgstr ""
+
+#: fw/core/core.lists.php:675
+msgid "Square Effect 12"
+msgstr ""
+
+#: fw/core/core.lists.php:676
+msgid "Square Effect 13"
+msgstr ""
+
+#: fw/core/core.lists.php:677
+msgid "Square Effect 14"
+msgstr ""
+
+#: fw/core/core.lists.php:678
+msgid "Square Effect 15"
+msgstr ""
+
+#: fw/core/core.lists.php:679
+msgid "Square Effect Dir"
+msgstr ""
+
+#: fw/core/core.lists.php:680
+msgid "Square Effect Shift"
+msgstr ""
+
+#: fw/core/core.lists.php:681
+msgid "Square Effect Book"
+msgstr ""
+
+#: fw/core/core.lists.php:682
+msgid "Square Effect More"
+msgstr ""
+
+#: fw/core/core.lists.php:683
+msgid "Square Effect Fade"
+msgstr ""
+
+#: fw/core/core.lists.php:684
+msgid "Square Effect Pull"
+msgstr ""
+
+#: fw/core/core.lists.php:685
+msgid "Square Effect Slide"
+msgstr ""
+
+#: fw/core/core.lists.php:686
+msgid "Square Effect Border"
+msgstr ""
+
+#: fw/core/core.lists.php:700 templates/_parts/counters.php:11
+#: templates/trx_blogger/accordion.php:50 templates/trx_blogger/date.php:54
+msgid "Views"
+msgstr ""
+
+#: fw/core/core.lists.php:701 templates/_parts/counters.php:35
+msgid "Likes"
+msgstr ""
+
+#: fw/core/core.lists.php:702
+msgid "Rating"
+msgstr ""
+
+#: fw/core/core.lists.php:717
+msgid "1x1"
+msgstr ""
+
+#: fw/core/core.lists.php:718
+msgid "1x2"
+msgstr ""
+
+#: fw/core/core.lists.php:719
+msgid "2x1"
+msgstr ""
+
+#: fw/core/core.lists.php:720
+msgid "2x2"
+msgstr ""
+
+#: fw/core/core.lists.php:721
+msgid "1x3"
+msgstr ""
+
+#: fw/core/core.lists.php:722
+msgid "2x3"
+msgstr ""
+
+#: fw/core/core.lists.php:723
+msgid "3x1"
+msgstr ""
+
+#: fw/core/core.lists.php:724
+msgid "3x2"
+msgstr ""
+
+#: fw/core/core.lists.php:725
+msgid "3x3"
+msgstr ""
+
+#: fw/core/core.lists.php:739
+msgid "Left to Right"
+msgstr ""
+
+#: fw/core/core.lists.php:740
+msgid "Right to Left"
+msgstr ""
+
+#: fw/core/core.lists.php:741
+msgid "Top to Bottom"
+msgstr ""
+
+#: fw/core/core.lists.php:742
+msgid "Bottom to Top"
+msgstr ""
+
+#: fw/core/core.lists.php:743
+msgid "Scale Up"
+msgstr ""
+
+#: fw/core/core.lists.php:744
+msgid "Scale Down"
+msgstr ""
+
+#: fw/core/core.lists.php:745
+msgid "Scale Down-Up"
+msgstr ""
+
+#: fw/core/core.lists.php:746
+msgid "From Left and Right"
+msgstr ""
+
+#: fw/core/core.lists.php:747
+msgid "From Top and Bottom"
+msgstr ""
+
+#: fw/core/core.lists.php:762 fw/core/core.lists.php:1043
+msgid "Top"
+msgstr ""
+
+#: fw/core/core.lists.php:765
+msgid "Over"
+msgstr ""
+
+#: fw/core/core.lists.php:780
+msgid "Left Top"
+msgstr ""
+
+#: fw/core/core.lists.php:781
+msgid "Center Top"
+msgstr ""
+
+#: fw/core/core.lists.php:782
+msgid "Right Top"
+msgstr ""
+
+#: fw/core/core.lists.php:783
+msgid "Left Center"
+msgstr ""
+
+#: fw/core/core.lists.php:784
+msgid "Center Center"
+msgstr ""
+
+#: fw/core/core.lists.php:785
+msgid "Right Center"
+msgstr ""
+
+#: fw/core/core.lists.php:786
+msgid "Left Bottom"
+msgstr ""
+
+#: fw/core/core.lists.php:787
+msgid "Center Bottom"
+msgstr ""
+
+#: fw/core/core.lists.php:788
+msgid "Right Bottom"
+msgstr ""
+
+#: fw/core/core.lists.php:803
+msgid "Repeat X"
+msgstr ""
+
+#: fw/core/core.lists.php:804
+msgid "Repeat Y"
+msgstr ""
+
+#: fw/core/core.lists.php:805
+msgid "No Repeat"
+msgstr ""
+
+#: fw/core/core.lists.php:819
+msgid "Scroll"
+msgstr ""
+
+#: fw/core/core.lists.php:820 includes/theme.options.php:846
+msgid "Fixed"
+msgstr ""
+
+#: fw/core/core.lists.php:821
+msgid "Local"
+msgstr ""
+
+#: fw/core/core.lists.php:835
+msgid "White"
+msgstr ""
+
+#: fw/core/core.lists.php:852
+msgid "Text Area"
+msgstr ""
+
+#: fw/core/core.lists.php:853
+msgid "Password"
+msgstr ""
+
+#: fw/core/core.lists.php:854
+msgid "Radio"
+msgstr ""
+
+#: fw/core/core.lists.php:855
+msgid "Checkbox"
+msgstr ""
+
+#: fw/core/core.lists.php:856
+msgid "Select"
+msgstr ""
+
+#: fw/core/core.lists.php:857 fw/core/core.lists.php:1055
+#: plugins/plugin.woocommerce.php:1023 plugins/plugin.woocommerce.php:1067
+#: plugins/plugin.woocommerce.php:1103 plugins/plugin.woocommerce.php:1147
+#: plugins/plugin.woocommerce.php:1191 plugins/plugin.woocommerce.php:1235
+#: plugins/plugin.woocommerce.php:1302 plugins/plugin.woocommerce.php:1346
+#: plugins/plugin.woocommerce.php:1402 plugins/plugin.woocommerce.php:1776
+#: plugins/plugin.woocommerce.php:1836 plugins/plugin.woocommerce.php:1887
+#: plugins/plugin.woocommerce.php:1947 plugins/plugin.woocommerce.php:2007
+#: plugins/plugin.woocommerce.php:2067 plugins/plugin.woocommerce.php:2158
+#: plugins/plugin.woocommerce.php:2219 plugins/plugin.woocommerce.php:2297
+msgid "Date"
+msgstr ""
+
+#: fw/core/core.lists.php:858
+msgid "Time"
+msgstr ""
+
+#: fw/core/core.lists.php:859
+msgid "Button"
+msgstr ""
+
+#: fw/core/core.lists.php:915
+msgid "Yes"
+msgstr ""
+
+#: fw/core/core.lists.php:916
+msgid "No"
+msgstr ""
+
+#: fw/core/core.lists.php:926
+msgid "On"
+msgstr ""
+
+#: fw/core/core.lists.php:927
+msgid "Off"
+msgstr ""
+
+#: fw/core/core.lists.php:937
+msgid "Show"
+msgstr ""
+
+#: fw/core/core.lists.php:948
+msgid "Ascending"
+msgstr ""
+
+#: fw/core/core.lists.php:949
+msgid "Descending"
+msgstr ""
+
+#: fw/core/core.lists.php:959 includes/theme.options.php:1950
+msgid "Horizontal"
+msgstr ""
+
+#: fw/core/core.lists.php:960 includes/theme.options.php:1949
+msgid "Vertical"
+msgstr ""
+
+#: fw/core/core.lists.php:970
+msgid "Round"
+msgstr ""
+
+#: fw/core/core.lists.php:971 includes/theme.options.php:1441
+msgid "Square"
+msgstr ""
+
+#: fw/core/core.lists.php:1007
+msgid "Float Left"
+msgstr ""
+
+#: fw/core/core.lists.php:1008
+msgid "Float Right"
+msgstr ""
+
+#: fw/core/core.lists.php:1020 fw/core/core.lists.php:1033
+#: fw/core/core.lists.php:1044
+msgid "Center"
+msgstr ""
+
+#: fw/core/core.lists.php:1023
+msgid "Justify"
+msgstr ""
+
+#: fw/core/core.lists.php:1056
+msgid "Alphabetically"
+msgstr ""
+
+#: fw/core/core.lists.php:1057
+msgid "Popular (views count)"
+msgstr ""
+
+#: fw/core/core.lists.php:1058
+msgid "Most commented (comments count)"
+msgstr ""
+
+#: fw/core/core.lists.php:1059
+msgid "Author rating"
+msgstr ""
+
+#: fw/core/core.lists.php:1060
+msgid "Visitors (users) rating"
+msgstr ""
+
+#: fw/core/core.lists.php:1061
+msgid "Random"
+msgstr ""
+
+#: fw/core/core.lists.php:1076
+msgid "100%"
+msgstr ""
+
+#: fw/core/core.lists.php:1077
+msgid "1/2"
+msgstr ""
+
+#: fw/core/core.lists.php:1078
+msgid "1/3"
+msgstr ""
+
+#: fw/core/core.lists.php:1079
+msgid "2/3"
+msgstr ""
+
+#: fw/core/core.lists.php:1080
+msgid "1/4"
+msgstr ""
+
+#: fw/core/core.lists.php:1081
+msgid "3/4"
+msgstr ""
+
+#: fw/core/core.lists.php:1082
+msgid "1/5"
+msgstr ""
+
+#: fw/core/core.lists.php:1083
+msgid "2/5"
+msgstr ""
+
+#: fw/core/core.lists.php:1084
+msgid "3/5"
+msgstr ""
+
+#: fw/core/core.lists.php:1085
+msgid "4/5"
+msgstr ""
+
+#: fw/core/core.lists.php:1086
+msgid "1/6"
+msgstr ""
+
+#: fw/core/core.lists.php:1087
+msgid "5/6"
+msgstr ""
+
+#: fw/core/core.lists.php:1088
+msgid "1/7"
+msgstr ""
+
+#: fw/core/core.lists.php:1089
+msgid "2/7"
+msgstr ""
+
+#: fw/core/core.lists.php:1090
+msgid "3/7"
+msgstr ""
+
+#: fw/core/core.lists.php:1091
+msgid "4/7"
+msgstr ""
+
+#: fw/core/core.lists.php:1092
+msgid "5/7"
+msgstr ""
+
+#: fw/core/core.lists.php:1093
+msgid "6/7"
+msgstr ""
+
+#: fw/core/core.lists.php:1094
+msgid "1/8"
+msgstr ""
+
+#: fw/core/core.lists.php:1095
+msgid "3/8"
+msgstr ""
+
+#: fw/core/core.lists.php:1096
+msgid "5/8"
+msgstr ""
+
+#: fw/core/core.lists.php:1097
+msgid "7/8"
+msgstr ""
+
+#: fw/core/core.lists.php:1098
+msgid "1/9"
+msgstr ""
+
+#: fw/core/core.lists.php:1099
+msgid "2/9"
+msgstr ""
+
+#: fw/core/core.lists.php:1100
+msgid "4/9"
+msgstr ""
+
+#: fw/core/core.lists.php:1101
+msgid "5/9"
+msgstr ""
+
+#: fw/core/core.lists.php:1102
+msgid "7/9"
+msgstr ""
+
+#: fw/core/core.lists.php:1103
+msgid "8/9"
+msgstr ""
+
+#: fw/core/core.lists.php:1104
+msgid "1/10"
+msgstr ""
+
+#: fw/core/core.lists.php:1105
+msgid "3/10"
+msgstr ""
+
+#: fw/core/core.lists.php:1106
+msgid "7/10"
+msgstr ""
+
+#: fw/core/core.lists.php:1107
+msgid "9/10"
+msgstr ""
+
+#: fw/core/core.lists.php:1108
+msgid "1/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1109
+msgid "2/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1110
+msgid "3/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1111
+msgid "4/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1112
+msgid "5/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1113
+msgid "6/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1114
+msgid "7/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1115
+msgid "8/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1116
+msgid "9/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1117
+msgid "10/11"
+msgstr ""
+
+#: fw/core/core.lists.php:1118
+msgid "1/12"
+msgstr ""
+
+#: fw/core/core.lists.php:1119
+msgid "5/12"
+msgstr ""
+
+#: fw/core/core.lists.php:1120
+msgid "7/12"
+msgstr ""
+
+#: fw/core/core.lists.php:1121
+msgid "10/12"
+msgstr ""
+
+#: fw/core/core.lists.php:1122
+msgid "11/12"
+msgstr ""
+
+#: fw/core/core.lists.php:1136
+msgid "As in the post defined"
+msgstr ""
+
+#: fw/core/core.lists.php:1137
+msgid "Above the text of the post"
+msgstr ""
+
+#: fw/core/core.lists.php:1138
+msgid "To the left the text of the post"
+msgstr ""
+
+#: fw/core/core.lists.php:1139
+msgid "To the right the text of the post"
+msgstr ""
+
+#: fw/core/core.lists.php:1140
+msgid "Alternates for each post"
+msgstr ""
+
+#: fw/core/core.lists.php:1153
+msgid "gallery"
+msgstr ""
+
+#: fw/core/core.lists.php:1153
+msgid "galleries"
+msgstr ""
+
+#: fw/core/core.lists.php:1154
+msgid "video"
+msgstr ""
+
+#: fw/core/core.lists.php:1154
+msgid "videos"
+msgstr ""
+
+#: fw/core/core.lists.php:1155
+msgid "audio"
+msgstr ""
+
+#: fw/core/core.lists.php:1155
+msgid "audios"
+msgstr ""
+
+#: fw/core/core.lists.php:1156
+msgid "image"
+msgstr ""
+
+#: fw/core/core.lists.php:1156
+msgid "images"
+msgstr ""
+
+#: fw/core/core.lists.php:1157
+msgid "quote"
+msgstr ""
+
+#: fw/core/core.lists.php:1157
+msgid "quotes"
+msgstr ""
+
+#: fw/core/core.lists.php:1158
+msgid "link"
+msgstr ""
+
+#: fw/core/core.lists.php:1158
+msgid "links"
+msgstr ""
+
+#: fw/core/core.lists.php:1159
+msgid "status"
+msgstr ""
+
+#: fw/core/core.lists.php:1159
+msgid "statuses"
+msgstr ""
+
+#: fw/core/core.lists.php:1160
+msgid "aside"
+msgstr ""
+
+#: fw/core/core.lists.php:1160
+msgid "asides"
+msgstr ""
+
+#: fw/core/core.lists.php:1161
+msgid "chat"
+msgstr ""
+
+#: fw/core/core.lists.php:1161
+msgid "chats"
+msgstr ""
+
+#: fw/core/core.lists.php:1162
+msgid "standard"
+msgstr ""
+
+#: fw/core/core.lists.php:1162
+msgid "standards"
+msgstr ""
+
+#: fw/core/core.lists.php:1190
+msgid "I"
+msgstr ""
+
+#: fw/core/core.lists.php:1191
+msgid "U"
+msgstr ""
+
+#: fw/core/core.lists.php:1273
+#, php-format
+msgid "%s (uploaded font)"
+msgstr ""
+
+#: fw/core/core.messages.php:99
+msgid "Add the bookmark"
+msgstr ""
+
+#: fw/core/core.messages.php:100
+msgid ""
+"Current page has been successfully added to the bookmarks. You can see it in "
+"the right panel on the tab 'Bookmarks'"
+msgstr ""
+
+#: fw/core/core.messages.php:101 templates/headers/_parts/top-panel-top.php:108
+msgid "Delete this bookmark"
+msgstr ""
+
+#: fw/core/core.messages.php:102
+msgid "Enter bookmark title"
+msgstr ""
+
+#: fw/core/core.messages.php:103
+msgid "Current page already exists in the bookmarks list"
+msgstr ""
+
+#: fw/core/core.messages.php:104
+msgid ""
+"Error occurs in AJAX search! Please, type your query and press search icon "
+"for the traditional search way."
+msgstr ""
+
+#: fw/core/core.messages.php:105
+#, php-format
+msgid ""
+"On the e-mail address \"%s\" we sent a confirmation email. Please, open it "
+"and click on the link."
+msgstr ""
+
+#: fw/core/core.messages.php:106
+msgid "Thanks for your vote! New average rating is:"
+msgstr ""
+
+#: fw/core/core.messages.php:107
+msgid "Error saving your vote! Please, try again later."
+msgstr ""
+
+#: fw/core/core.messages.php:108
+msgid "Error saving your like! Please, try again later."
+msgstr ""
+
+#: fw/core/core.messages.php:109
+msgid "Global error text"
+msgstr ""
+
+#: fw/core/core.messages.php:110
+msgid "The name can't be empty"
+msgstr ""
+
+#: fw/core/core.messages.php:111
+msgid "Too long name"
+msgstr ""
+
+#: fw/core/core.messages.php:112
+msgid "Too short (or empty) email address"
+msgstr ""
+
+#: fw/core/core.messages.php:113
+msgid "Too long email address"
+msgstr ""
+
+#: fw/core/core.messages.php:114
+msgid "Invalid email address"
+msgstr ""
+
+#: fw/core/core.messages.php:115
+msgid "The subject can't be empty"
+msgstr ""
+
+#: fw/core/core.messages.php:116
+msgid "Too long subject"
+msgstr ""
+
+#: fw/core/core.messages.php:117
+msgid "The message text can't be empty"
+msgstr ""
+
+#: fw/core/core.messages.php:118
+msgid "Too long message text"
+msgstr ""
+
+#: fw/core/core.messages.php:119
+msgid "Send message complete!"
+msgstr ""
+
+#: fw/core/core.messages.php:120
+msgid "Transmit failed!"
+msgstr ""
+
+#: fw/core/core.messages.php:121
+msgid "Geocode was not successful for the following reason:"
+msgstr ""
+
+#: fw/core/core.messages.php:122
+msgid "Google map API not available!"
+msgstr ""
+
+#: fw/core/core.messages.php:123
+msgid "Post content saved!"
+msgstr ""
+
+#: fw/core/core.messages.php:124
+msgid "Error saving post data!"
+msgstr ""
+
+#: fw/core/core.messages.php:125
+msgid "You really want to delete the current post?"
+msgstr ""
+
+#: fw/core/core.messages.php:126 templates/_parts/post-info.php:60
+msgid "Delete post"
+msgstr ""
+
+#: fw/core/core.messages.php:127
+msgid "Post deleted!"
+msgstr ""
+
+#: fw/core/core.messages.php:128
+msgid "Error deleting post!"
+msgstr ""
+
+#: fw/core/core.messages.php:129 templates/_parts/editor-area.php:30
+msgid "Cancel"
+msgstr ""
+
+#: fw/core/core.messages.php:130 templates/headers/_parts/header-mobile.php:25
+msgid "Close"
+msgstr ""
+
+#: fw/core/core.options/core.options-custom.php:49
+#: fw/core/core.options/core.options-custom.php:53
+msgid "Choose Images"
+msgstr ""
+
+#: fw/core/core.options/core.options-custom.php:49
+#: fw/core/core.options/core.options-custom.php:50
+#: fw/core/core.options/core.options-custom.php:53
+msgid "Choose Image"
+msgstr ""
+
+#: fw/core/core.options/core.options-custom.php:50
+msgid "Add to Gallery"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:50
+#: fw/core/core.options/core.options.php:556
+#: fw/core/core.options/core.options.php:667
+msgid "Global Options"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:51
+#: fw/core/core.options/core.options.php:587 fw/core/support.post.php:163
+#: fw/core/support.taxonomy.php:46
+msgid "Theme Options"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:476
+msgid "You can't delete last item! To disable it - just clear value in field."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:477
+msgid "Delete item error!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:478
+msgid ""
+"When saving color schemes and font settings, recompilation of .less files "
+"occurs. It may take from 5 to 15 secs dependning on your server's speed and "
+"size of .less files."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:479
+msgid "Please wait a few seconds!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:480
+msgid "After 3 seconds this page will be reloaded."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:481
+msgid "Options saved!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:482
+msgid "Options reset!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:483
+msgid "Do you really want reset all options to default values?"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:484
+msgid "Settings are reset to their default values."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:485
+msgid "Export options"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:486
+msgid "Name for options set is not selected! Export cancelled."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:487
+msgid "Name for the options set:"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:488
+msgid "or select one of exists set (for replace):"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:489
+msgid "Select set for replace ..."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:490
+msgid "No exported sets for import!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:491
+msgid "Options exported!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:492
+#, php-format
+msgid ""
+"If need, you can download the configuration file from the following link: %s"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:493
+msgid "Download theme options settings"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:494
+msgid "or put here previously exported data:"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:495
+msgid "or select file with saved settings:"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:496
+msgid "Import options"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:497
+msgid ""
+"You need select the name for options set or paste import data! Import "
+"cancelled."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:498
+msgid "Error while import options! Import cancelled."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:499
+msgid "Attention! Some options are not imported:"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:500
+msgid "Options imported!"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:501
+msgid ""
+"Attention! During the import process, all existing data will be replaced "
+"with new."
+msgstr ""
+
+#: fw/core/core.options/core.options.php:558
+msgid "Options"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:561
+msgid ""
+"Global settings affect the entire website's display. They can be overriden "
+"when editing settings for a certain post type (if select it in the popup "
+"menu above) or when editing category or single page/post (affect only on "
+"this category/page/post)"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:563
+msgid ""
+"Settings template for a certain post type: affects the display of just one "
+"specific post type. They can be overriden when editing categories and/or "
+"posts of a certain type"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:617
+msgid "Import"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:620
+msgid "Export"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:623
+msgid "Reset"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:626
+#: templates/_parts/editor-area.php:29
+msgid "Save"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:679
+#, php-format
+msgid "%s Stream"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:685
+#, php-format
+msgid "%s Single"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:883
+#: fw/core/core.options/core.options.php:889
+msgid "Choose image"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:890
+msgid "Select image"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:974
+msgid "More info"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:979
+msgid "Unlock this field"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:1418
+msgid "+ Add item"
+msgstr ""
+
+#: fw/core/core.options/core.options.php:1509
+msgid "Error while unpack import data!"
+msgstr ""
+
+#: fw/core/core.reviews.php:69
+msgid "Bad post ID"
+msgstr ""
+
+#: fw/core/core.reviews.php:101
+msgid "no rated"
+msgstr ""
+
+#: fw/core/core.reviews.php:128
+msgid "Accept your votes"
+msgstr ""
+
+#: fw/core/core.reviews.php:133
+msgid "Summary"
+msgstr ""
+
+#: fw/core/core.reviews.php:153
+#, php-format
+msgid "%s / %s"
+msgstr ""
+
+#: fw/core/core.reviews.php:153 fw/core/support.post.php:399
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: fw/core/core.theme.php:205
+msgid "Main Menu"
+msgstr ""
+
+#: fw/core/core.theme.php:206
+msgid "User Menu"
+msgstr ""
+
+#: fw/core/core.theme.php:207
+msgid "Footer Menu"
+msgstr ""
+
+#: fw/core/core.theme.php:208
+msgid "Side Menu"
+msgstr ""
+
+#: fw/core/core.theme.php:262 fw/core/core.theme.php:294
+msgid "on"
+msgstr ""
+
+#: fw/core/core.theme.php:655
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: fw/core/core.theme.php:704 fw/core/core.theme.php:706
+msgid "Post update error!"
+msgstr ""
+
+#: fw/core/core.theme.php:709
+msgid "Post update denied!"
+msgstr ""
+
+#: fw/core/core.theme.php:731 fw/core/core.theme.php:733
+msgid "Post delete error!"
+msgstr ""
+
+#: fw/core/core.theme.php:736
+msgid "Post delete denied!"
+msgstr ""
+
+#: fw/core/core.users.php:93
+msgid "User Position"
+msgstr ""
+
+#: fw/core/core.users.php:96
+msgid "User position"
+msgstr ""
+
+#: fw/core/core.users.php:98
+msgid "Please, enter your position in the company"
+msgstr ""
+
+#: fw/core/core.users.php:103 plugins/support.team.php:87
+msgid "Social links"
+msgstr ""
+
+#: fw/core/core.users.php:124
+#, php-format
+msgid "Please, enter your %s link"
+msgstr ""
+
+#: fw/core/core.wp.php:98 fw/core/support.post.php:380
+msgid "Home"
+msgstr ""
+
+#: fw/core/core.wp.php:158
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: fw/core/core.wp.php:257
+msgid "&laquo; First"
+msgstr ""
+
+#: fw/core/core.wp.php:258
+msgid "Last &raquo;"
+msgstr ""
+
+#: fw/core/core.wp.php:259
+msgid "&laquo; Prev"
+msgstr ""
+
+#: fw/core/core.wp.php:260
+msgid "Next &raquo;"
+msgstr ""
+
+#: fw/core/core.wp.php:294
+msgid "Post navigation"
+msgstr ""
+
+#: fw/core/core.wp.php:401
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: fw/core/core.wp.php:517
+msgid "Wrong query arguments"
+msgstr ""
+
+#: fw/core/core.wp.php:585 templates/no-search.php:28
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: fw/core/core.wp.php:587
+msgid "More results &hellip;"
+msgstr ""
+
+#: fw/core/core.wp.php:591
+msgid "The query string is empty!"
+msgstr ""
+
+#: fw/core/core.wp.php:656 fw/core/core.wp.php:684 fw/core/core.wp.php:699
+#, php-format
+msgid "View posts for %1$s %2$s"
+msgstr ""
+
+#: fw/core/core.wp.php:744
+msgid "items"
+msgstr ""
+
+#: fw/core/core.wp.php:790
+msgid "Trackback:"
+msgstr ""
+
+#: fw/core/core.wp.php:790 fw/core/core.wp.php:795
+#: templates/_parts/counters.php:47 templates/_parts/post-info.php:57
+msgid "Edit"
+msgstr ""
+
+#: fw/core/core.wp.php:795
+msgid "Pingback:"
+msgstr ""
+
+#: fw/core/core.wp.php:808 templates/_parts/post-info.php:24
+msgid "Posted"
+msgstr ""
+
+#: fw/core/core.wp.php:813
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: fw/core/support.attachment.php:100
+msgid "Media without folders"
+msgstr ""
+
+#: fw/core/support.attachment.php:137
+msgid "Create new folder"
+msgstr ""
+
+#: fw/core/support.post.php:119
+msgid "Reviews"
+msgstr ""
+
+#: fw/core/support.post.php:125
+msgid "Reviews criterias for this post"
+msgstr ""
+
+#: fw/core/support.post.php:128
+msgid "In this section you can put your reviews marks"
+msgstr ""
+
+#: fw/core/support.post.php:132
+msgid "Show reviews block"
+msgstr ""
+
+#: fw/core/support.post.php:133
+msgid ""
+"Show reviews block on single post page and average reviews rating after "
+"post's title in stream pages"
+msgstr ""
+
+#: fw/core/support.post.php:142
+msgid "Reviews marks"
+msgstr ""
+
+#: fw/core/support.post.php:144
+msgid "Marks for this review"
+msgstr ""
+
+#: fw/core/support.post.php:180 fw/core/support.taxonomy.php:63
+msgid "[Complex Data]"
+msgstr ""
+
+#: fw/core/support.post.php:287
+msgid "Post"
+msgstr ""
+
+#: fw/core/support.post.php:288
+msgid "Page"
+msgstr ""
+
+#: fw/core/support.post.php:382 fw/core/support.post.php:384
+msgid "All Posts"
+msgstr ""
+
+#: fw/core/support.post.php:387
+#, php-format
+msgid "Author page: %s"
+msgstr ""
+
+#: fw/core/support.post.php:389
+msgid "URL not found"
+msgstr ""
+
+#: fw/core/support.post.php:391 templates/no-search.php:27
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: fw/core/support.post.php:393
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: fw/core/support.post.php:395
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: fw/core/support.post.php:397
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: fw/core/support.post.php:401
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: fw/core/support.post.php:403
+#, php-format
+msgid "Attachment: %s"
+msgstr ""
+
+#: fw/core/support.post_type.php:25
+msgid "Post Options"
+msgstr ""
+
+#: fw/core/support.taxonomy.php:165
+msgid "Custom settings for this taxonomy (and nested):"
+msgstr ""
+
+#: fw/core/support.taxonomy.php:169
+msgid ""
+"Select parameters for showing posts from this taxonomy and all nested "
+"taxonomies."
+msgstr ""
+
+#: fw/core/support.taxonomy.php:170
+msgid "Attention: In each nested taxonomy you can override this settings."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:393
+#: fw/lib/tgm/class-tgm-plugin-activation.php:912
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2618
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:394
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:395
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:1019
+#: fw/lib/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:1206
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/theme.options.php:106
+msgid "Customization"
+msgstr ""
+
+#: includes/theme.options.php:118 includes/theme.options.php:133
+msgid "Body style"
+msgstr ""
+
+#: includes/theme.options.php:126
+msgid "Body parameters"
+msgstr ""
+
+#: includes/theme.options.php:127
+msgid ""
+"Select body style and color scheme for entire site. You can override this "
+"parameters on any page, post or category"
+msgstr ""
+
+#: includes/theme.options.php:134
+msgid "Select body style:"
+msgstr ""
+
+#: includes/theme.options.php:138
+msgid "<b>wide</b> - page fill whole window with centered content"
+msgstr ""
+
+#: includes/theme.options.php:140
+msgid ""
+"<b>fullwide</b> - page content stretched on the full width of the window "
+"(with few left and right paddings)"
+msgstr ""
+
+#: includes/theme.options.php:143
+msgid "<b>fullscreen</b> - page content fill whole window without any paddings"
+msgstr ""
+
+#: includes/theme.options.php:154
+msgid "Page paddings"
+msgstr ""
+
+#: includes/theme.options.php:155
+msgid "Add paddings above and below the page content"
+msgstr ""
+
+#: includes/theme.options.php:164
+msgid "Select predefined color scheme for the entire page"
+msgstr ""
+
+#: includes/theme.options.php:172
+msgid "Fill body"
+msgstr ""
+
+#: includes/theme.options.php:173
+msgid ""
+"Fill the page background with the solid color or leave it transparend to "
+"show background image (or video background)"
+msgstr ""
+
+#: includes/theme.options.php:181
+msgid "Background color and image"
+msgstr ""
+
+#: includes/theme.options.php:182
+msgid "Color and image for the site background"
+msgstr ""
+
+#: includes/theme.options.php:188
+msgid "Use custom background"
+msgstr ""
+
+#: includes/theme.options.php:189
+msgid "Use custom color and/or image as the site background"
+msgstr ""
+
+#: includes/theme.options.php:198
+msgid "Body background color"
+msgstr ""
+
+#: includes/theme.options.php:208
+msgid "Background predefined pattern"
+msgstr ""
+
+#: includes/theme.options.php:209
+msgid "Select theme background pattern (first case - without pattern)"
+msgstr ""
+
+#: includes/theme.options.php:228
+msgid "Background custom pattern"
+msgstr ""
+
+#: includes/theme.options.php:229
+msgid ""
+"Select or upload background custom pattern. If selected - use it instead the "
+"theme predefined pattern (selected in the field above)"
+msgstr ""
+
+#: includes/theme.options.php:239
+msgid "Background predefined image"
+msgstr ""
+
+#: includes/theme.options.php:240
+msgid "Select theme background image (first case - without image)"
+msgstr ""
+
+#: includes/theme.options.php:257
+msgid "Background custom image"
+msgstr ""
+
+#: includes/theme.options.php:258
+msgid ""
+"Select or upload background custom image. If selected - use it instead the "
+"theme predefined image (selected in the field above)"
+msgstr ""
+
+#: includes/theme.options.php:268
+msgid "Background custom image position"
+msgstr ""
+
+#: includes/theme.options.php:269
+msgid "Select custom image position"
+msgstr ""
+
+#: includes/theme.options.php:290
+msgid "Load background image"
+msgstr ""
+
+#: includes/theme.options.php:291
+msgid "Always load background images or only for boxed body style"
+msgstr ""
+
+#: includes/theme.options.php:300 plugins/plugin.woocommerce.php:127
+msgid "Always"
+msgstr ""
+
+#: includes/theme.options.php:307
+msgid "Video background"
+msgstr ""
+
+#: includes/theme.options.php:308
+msgid "Parameters of the video, used as site background"
+msgstr ""
+
+#: includes/theme.options.php:314
+msgid "Show video background"
+msgstr ""
+
+#: includes/theme.options.php:315
+msgid "Show video as the site background"
+msgstr ""
+
+#: includes/theme.options.php:323
+msgid "Youtube code for video bg"
+msgstr ""
+
+#: includes/theme.options.php:324
+msgid "Youtube code of video"
+msgstr ""
+
+#: includes/theme.options.php:334
+msgid "Local video for video bg"
+msgstr ""
+
+#: includes/theme.options.php:335
+msgid "URL to video-file (uploaded on your site)"
+msgstr ""
+
+#: includes/theme.options.php:341
+msgid "Choose video"
+msgstr ""
+
+#: includes/theme.options.php:346
+msgid "Choose Video"
+msgstr ""
+
+#: includes/theme.options.php:347
+msgid "Select Video"
+msgstr ""
+
+#: includes/theme.options.php:355
+msgid "Use overlay for video bg"
+msgstr ""
+
+#: includes/theme.options.php:356
+msgid "Use overlay texture for the video background"
+msgstr ""
+
+#: includes/theme.options.php:374
+msgid "Header"
+msgstr ""
+
+#: includes/theme.options.php:380
+msgid "Top panel"
+msgstr ""
+
+#: includes/theme.options.php:381
+msgid ""
+"Top panel settings. It include user menu area (with contact info, cart "
+"button, language selector, login/logout menu and user menu) and main menu "
+"area (with logo and main menu)."
+msgstr ""
+
+#: includes/theme.options.php:386
+msgid "Top panel style"
+msgstr ""
+
+#: includes/theme.options.php:387
+msgid "Select desired style of the page header"
+msgstr ""
+
+#: includes/theme.options.php:395
+msgid "Top panel image"
+msgstr ""
+
+#: includes/theme.options.php:396
+msgid ""
+"Select default background image of the page header (if not single post or "
+"featured image for current post is not specified)"
+msgstr ""
+
+#: includes/theme.options.php:405
+msgid "Top panel position"
+msgstr ""
+
+#: includes/theme.options.php:406
+msgid "Select position for the top panel with logo and main menu"
+msgstr ""
+
+#: includes/theme.options.php:411
+msgid "Above slider"
+msgstr ""
+
+#: includes/theme.options.php:412
+msgid "Below slider"
+msgstr ""
+
+#: includes/theme.options.php:413
+msgid "Over slider"
+msgstr ""
+
+#: includes/theme.options.php:418
+msgid "Top panel color scheme"
+msgstr ""
+
+#: includes/theme.options.php:419
+msgid "Select predefined color scheme for the top panel"
+msgstr ""
+
+#: includes/theme.options.php:427
+msgid "Push panel color scheme"
+msgstr ""
+
+#: includes/theme.options.php:428
+msgid ""
+"Select predefined color scheme for the push panel (with logo, menu and "
+"socials)"
+msgstr ""
+
+#: includes/theme.options.php:439
+msgid "Show Page title"
+msgstr ""
+
+#: includes/theme.options.php:440
+msgid "Show post/page/category title"
+msgstr ""
+
+#: includes/theme.options.php:447
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: includes/theme.options.php:448
+msgid "Show path to current category (post, page)"
+msgstr ""
+
+#: includes/theme.options.php:455
+msgid "Breadcrumbs max nesting"
+msgstr ""
+
+#: includes/theme.options.php:456
+msgid "Max number of the nested categories in the breadcrumbs (0 - unlimited)"
+msgstr ""
+
+#: includes/theme.options.php:470
+msgid "Main menu style and position"
+msgstr ""
+
+#: includes/theme.options.php:471
+msgid "Select the Main menu style and position"
+msgstr ""
+
+#: includes/theme.options.php:476
+msgid "Select main menu"
+msgstr ""
+
+#: includes/theme.options.php:477
+msgid "Select main menu for the current page"
+msgstr ""
+
+#: includes/theme.options.php:484
+msgid "Main menu attachment"
+msgstr ""
+
+#: includes/theme.options.php:485
+msgid "Attach main menu to top of window then page scroll down"
+msgstr ""
+
+#: includes/theme.options.php:488
+msgid "Fix menu position"
+msgstr ""
+
+#: includes/theme.options.php:489
+msgid "Don't fix menu position"
+msgstr ""
+
+#: includes/theme.options.php:495
+msgid "Main menu hover effect"
+msgstr ""
+
+#: includes/theme.options.php:496
+msgid "Select hover effect for the main menu items"
+msgstr ""
+
+#: includes/theme.options.php:502
+msgid "Submenu show animation"
+msgstr ""
+
+#: includes/theme.options.php:503
+msgid "Select animation to show submenu "
+msgstr ""
+
+#: includes/theme.options.php:509
+msgid "Submenu hide animation"
+msgstr ""
+
+#: includes/theme.options.php:510
+msgid "Select animation to hide submenu "
+msgstr ""
+
+#: includes/theme.options.php:516
+msgid "Main menu responsive"
+msgstr ""
+
+#: includes/theme.options.php:517
+msgid ""
+"Allow responsive version for the main menu if window width less then this "
+"value"
+msgstr ""
+
+#: includes/theme.options.php:524
+msgid "Submenu width"
+msgstr ""
+
+#: includes/theme.options.php:525
+msgid "Width for dropdown menus in main menu"
+msgstr ""
+
+#: includes/theme.options.php:536
+msgid "User's menu area components"
+msgstr ""
+
+#: includes/theme.options.php:537
+msgid "Select parts for the user's menu area"
+msgstr ""
+
+#: includes/theme.options.php:542
+msgid "Show user menu area"
+msgstr ""
+
+#: includes/theme.options.php:543
+msgid "Show user menu area on top of page"
+msgstr ""
+
+#: includes/theme.options.php:550
+msgid "Select user menu"
+msgstr ""
+
+#: includes/theme.options.php:551
+msgid "Select user menu for the current page"
+msgstr ""
+
+#: includes/theme.options.php:561
+msgid "Show language selector"
+msgstr ""
+
+#: includes/theme.options.php:562
+msgid ""
+"Show language selector in the user menu (if WPML plugin installed and "
+"current page/post has multilanguage version)"
+msgstr ""
+
+#: includes/theme.options.php:571
+msgid "Show Login/Logout buttons"
+msgstr ""
+
+#: includes/theme.options.php:572
+msgid "Show Login and Logout buttons in the user menu area"
+msgstr ""
+
+#: includes/theme.options.php:581 templates/headers/_parts/top-panel-top.php:98
+msgid "Show bookmarks"
+msgstr ""
+
+#: includes/theme.options.php:582
+msgid "Show bookmarks selector in the user menu"
+msgstr ""
+
+#: includes/theme.options.php:591
+msgid "Show Social icons"
+msgstr ""
+
+#: includes/theme.options.php:592
+msgid "Show Social icons in the user menu area"
+msgstr ""
+
+#: includes/theme.options.php:602
+msgid "Main logo"
+msgstr ""
+
+#: includes/theme.options.php:603
+msgid "Select or upload logos for the site's header and select it position"
+msgstr ""
+
+#: includes/theme.options.php:609
+msgid "Logo image"
+msgstr ""
+
+#: includes/theme.options.php:610
+msgid "Main logo image"
+msgstr ""
+
+#: includes/theme.options.php:617
+msgid "Logo image for Retina"
+msgstr ""
+
+#: includes/theme.options.php:618
+msgid "Main logo image used on Retina display"
+msgstr ""
+
+#: includes/theme.options.php:625
+msgid "Logo image (fixed header)"
+msgstr ""
+
+#: includes/theme.options.php:626
+msgid "Logo image for the header (if menu is fixed after the page is scrolled)"
+msgstr ""
+
+#: includes/theme.options.php:634
+msgid "Logo text"
+msgstr ""
+
+#: includes/theme.options.php:635
+msgid "Logo text - display it after logo image"
+msgstr ""
+
+#: includes/theme.options.php:642 includes/theme.options.php:1278
+msgid "Logo height"
+msgstr ""
+
+#: includes/theme.options.php:643
+msgid "Height for the logo in the header area"
+msgstr ""
+
+#: includes/theme.options.php:654
+msgid "Logo top offset"
+msgstr ""
+
+#: includes/theme.options.php:655
+msgid "Top offset for the logo in the header area"
+msgstr ""
+
+#: includes/theme.options.php:675 plugins/support.services.php:576
+#: plugins/support.services.php:882 plugins/support.services.php:885
+#: plugins/support.services.php:896 plugins/support.services.php:911
+#: plugins/support.services.php:924 plugins/support.services.php:937
+#: plugins/support.team.php:766 plugins/support.team.php:1091
+#: plugins/support.team.php:1094 plugins/support.team.php:1105
+#: plugins/support.team.php:1120 plugins/support.team.php:1133
+#: plugins/support.team.php:1146 plugins/support.testimonials.php:496
+#: plugins/support.testimonials.php:761 plugins/support.testimonials.php:764
+#: plugins/support.testimonials.php:775 plugins/support.testimonials.php:790
+#: plugins/support.testimonials.php:803 plugins/support.testimonials.php:816
+msgid "Slider"
+msgstr ""
+
+#: includes/theme.options.php:681
+msgid "Main slider parameters"
+msgstr ""
+
+#: includes/theme.options.php:682
+msgid ""
+"Select parameters for main slider (you can override it in each category and "
+"page)"
+msgstr ""
+
+#: includes/theme.options.php:687
+msgid "Show Slider"
+msgstr ""
+
+#: includes/theme.options.php:688
+msgid "Do you want to show slider on each page (post)"
+msgstr ""
+
+#: includes/theme.options.php:695
+msgid "Slider display"
+msgstr ""
+
+#: includes/theme.options.php:696
+msgid ""
+"How display slider: boxed (fixed width and height), fullwide (fixed height) "
+"or fullscreen"
+msgstr ""
+
+#: includes/theme.options.php:710
+msgid "Height (in pixels)"
+msgstr ""
+
+#: includes/theme.options.php:711
+msgid "Slider height (in pixels) - only if slider display with fixed height."
+msgstr ""
+
+#: includes/theme.options.php:722
+msgid "Slider engine"
+msgstr ""
+
+#: includes/theme.options.php:723
+msgid "What engine use to show slider?"
+msgstr ""
+
+#: includes/theme.options.php:733
+msgid "Put content over slider"
+msgstr ""
+
+#: includes/theme.options.php:734
+msgid "Put content below on fixed layer over this slider"
+msgstr ""
+
+#: includes/theme.options.php:747
+msgid "Color scheme for content above"
+msgstr ""
+
+#: includes/theme.options.php:748
+msgid "Select predefined color scheme for the content over the slider"
+msgstr ""
+
+#: includes/theme.options.php:756
+msgid "Posts Slider: Category to show"
+msgstr ""
+
+#: includes/theme.options.php:757
+msgid ""
+"Select category to show in Flexslider (ignored for Revolution and Royal "
+"sliders)"
+msgstr ""
+
+#: includes/theme.options.php:770
+msgid "Posts Slider: Number posts or comma separated posts list"
+msgstr ""
+
+#: includes/theme.options.php:771
+msgid ""
+"How many recent posts display in slider or comma separated list of posts ID "
+"(in this case selected category ignored)"
+msgstr ""
+
+#: includes/theme.options.php:781
+msgid "Posts Slider: Posts order by"
+msgstr ""
+
+#: includes/theme.options.php:782
+msgid ""
+"Posts in slider ordered by date (default), comments, views, author rating, "
+"users rating, random or alphabetically"
+msgstr ""
+
+#: includes/theme.options.php:793
+msgid "Posts Slider: Posts order"
+msgstr ""
+
+#: includes/theme.options.php:794 includes/theme.options.php:1594
+msgid "Select the desired ordering method for posts"
+msgstr ""
+
+#: includes/theme.options.php:806
+msgid "Posts Slider: Slide change interval"
+msgstr ""
+
+#: includes/theme.options.php:807
+msgid "Interval (in ms) for slides change in slider"
+msgstr ""
+
+#: includes/theme.options.php:819
+msgid "Posts Slider: Pagination"
+msgstr ""
+
+#: includes/theme.options.php:820
+msgid "Choose pagination style for the slider"
+msgstr ""
+
+#: includes/theme.options.php:829
+msgid "Dots"
+msgstr ""
+
+#: includes/theme.options.php:830
+msgid "Titles"
+msgstr ""
+
+#: includes/theme.options.php:835
+msgid "Posts Slider: Show infobox"
+msgstr ""
+
+#: includes/theme.options.php:836
+msgid ""
+"Do you want to show post's title, reviews rating and description on slides "
+"in slider"
+msgstr ""
+
+#: includes/theme.options.php:851
+msgid "Posts Slider: Show post's category"
+msgstr ""
+
+#: includes/theme.options.php:852
+msgid "Do you want to show post's category on slides in slider"
+msgstr ""
+
+#: includes/theme.options.php:863
+msgid "Posts Slider: Show post's reviews rating"
+msgstr ""
+
+#: includes/theme.options.php:864
+msgid "Do you want to show post's reviews rating on slides in slider"
+msgstr ""
+
+#: includes/theme.options.php:875
+msgid "Posts Slider: Show post's descriptions"
+msgstr ""
+
+#: includes/theme.options.php:876
+msgid ""
+"How many characters show in the post's description in slider. 0 - no "
+"descriptions"
+msgstr ""
+
+#: includes/theme.options.php:895
+msgid "Sidebars"
+msgstr ""
+
+#: includes/theme.options.php:901 includes/theme.options.php:906
+msgid "Custom sidebars"
+msgstr ""
+
+#: includes/theme.options.php:902
+msgid ""
+"In this section you can create unlimited sidebars. You can fill them with "
+"widgets in the menu Appearance - Widgets"
+msgstr ""
+
+#: includes/theme.options.php:907
+msgid ""
+"Manage custom sidebars. You can use it with each category (page, post) "
+"independently"
+msgstr ""
+
+#: includes/theme.options.php:913
+msgid "Main sidebar"
+msgstr ""
+
+#: includes/theme.options.php:914
+msgid "Show / Hide and select main sidebar"
+msgstr ""
+
+#: includes/theme.options.php:919
+msgid "Show main sidebar"
+msgstr ""
+
+#: includes/theme.options.php:920
+msgid "Select position for the main sidebar or hide it"
+msgstr ""
+
+#: includes/theme.options.php:929
+msgid "Select predefined color scheme for the main sidebar"
+msgstr ""
+
+#: includes/theme.options.php:940
+msgid "Select main sidebar"
+msgstr ""
+
+#: includes/theme.options.php:941
+msgid "Select main sidebar content"
+msgstr ""
+
+#: includes/theme.options.php:951
+msgid "Select menu"
+msgstr ""
+
+#: includes/theme.options.php:952
+msgid "Select menu for the outer sidebar"
+msgstr ""
+
+#: includes/theme.options.php:963
+msgid "Show Widgets"
+msgstr ""
+
+#: includes/theme.options.php:964
+msgid "Show Widgets in the outer sidebar"
+msgstr ""
+
+#: includes/theme.options.php:974
+msgid "Select outer sidebar"
+msgstr ""
+
+#: includes/theme.options.php:975
+msgid "Select outer sidebar content"
+msgstr ""
+
+#: includes/theme.options.php:992
+msgid "Footer"
+msgstr ""
+
+#: includes/theme.options.php:999
+msgid "Footer components"
+msgstr ""
+
+#: includes/theme.options.php:1000
+msgid ""
+"Select components of the footer, set style and put the content for the "
+"user's footer area"
+msgstr ""
+
+#: includes/theme.options.php:1005
+msgid "Show footer sidebar"
+msgstr ""
+
+#: includes/theme.options.php:1006
+msgid "Select style for the footer sidebar or hide it"
+msgstr ""
+
+#: includes/theme.options.php:1014
+msgid "Select predefined color scheme for the footer"
+msgstr ""
+
+#: includes/theme.options.php:1025
+msgid "Select footer sidebar"
+msgstr ""
+
+#: includes/theme.options.php:1026
+msgid "Select footer sidebar for the blog page"
+msgstr ""
+
+#: includes/theme.options.php:1036
+msgid "Footer sidebar columns"
+msgstr ""
+
+#: includes/theme.options.php:1037
+msgid "Select columns number for the footer sidebar"
+msgstr ""
+
+#: includes/theme.options.php:1049
+msgid "Testimonials in Footer"
+msgstr ""
+
+#: includes/theme.options.php:1050
+msgid "Select parameters for Testimonials in the Footer"
+msgstr ""
+
+#: includes/theme.options.php:1055
+msgid "Show Testimonials in footer"
+msgstr ""
+
+#: includes/theme.options.php:1056
+msgid ""
+"Show Testimonials slider in footer. For correct operation of the slider (and "
+"shortcode testimonials) you must fill out Testimonials posts on the menu "
+"\"Testimonials\""
+msgstr ""
+
+#: includes/theme.options.php:1064
+msgid "Select predefined color scheme for the testimonials area"
+msgstr ""
+
+#: includes/theme.options.php:1075
+msgid "Testimonials count"
+msgstr ""
+
+#: includes/theme.options.php:1076
+msgid "Number testimonials to show"
+msgstr ""
+
+#: includes/theme.options.php:1089
+msgid "Twitter in Footer"
+msgstr ""
+
+#: includes/theme.options.php:1090
+msgid ""
+"Select parameters for Twitter stream in the Footer (you can override it in "
+"each category and page)"
+msgstr ""
+
+#: includes/theme.options.php:1095
+msgid "Show Twitter in footer"
+msgstr ""
+
+#: includes/theme.options.php:1096
+msgid ""
+"Show Twitter slider in footer. For correct operation of the slider (and "
+"shortcode twitter) you must fill out the Twitter API keys on the menu "
+"\"Appearance - Theme Options - Socials\""
+msgstr ""
+
+#: includes/theme.options.php:1104
+msgid "Select predefined color scheme for the twitter area"
+msgstr ""
+
+#: includes/theme.options.php:1115
+msgid "Twitter count"
+msgstr ""
+
+#: includes/theme.options.php:1116
+msgid "Number twitter to show"
+msgstr ""
+
+#: includes/theme.options.php:1129
+msgid "Google map parameters"
+msgstr ""
+
+#: includes/theme.options.php:1130
+msgid ""
+"Select parameters for Google map (you can override it in each category and "
+"page)"
+msgstr ""
+
+#: includes/theme.options.php:1135
+msgid "Show Google Map"
+msgstr ""
+
+#: includes/theme.options.php:1136
+msgid "Do you want to show Google map on each page (post)"
+msgstr ""
+
+#: includes/theme.options.php:1143
+msgid "Map height"
+msgstr ""
+
+#: includes/theme.options.php:1144
+msgid "Map height (default - in pixels, allows any CSS units of measure)"
+msgstr ""
+
+#: includes/theme.options.php:1155
+msgid "Address to show on map"
+msgstr ""
+
+#: includes/theme.options.php:1156
+msgid "Enter address to show on map center"
+msgstr ""
+
+#: includes/theme.options.php:1165
+msgid "Latitude and Longitude to show on map"
+msgstr ""
+
+#: includes/theme.options.php:1166
+msgid ""
+"Enter coordinates (separated by comma) to show on map center (instead of "
+"address)"
+msgstr ""
+
+#: includes/theme.options.php:1175
+msgid "Title to show on map"
+msgstr ""
+
+#: includes/theme.options.php:1176
+msgid "Enter title to show on map center"
+msgstr ""
+
+#: includes/theme.options.php:1185
+msgid "Description to show on map"
+msgstr ""
+
+#: includes/theme.options.php:1186
+msgid "Enter description to show on map center"
+msgstr ""
+
+#: includes/theme.options.php:1195
+msgid "Google map initial zoom"
+msgstr ""
+
+#: includes/theme.options.php:1196
+msgid "Enter desired initial zoom for Google map"
+msgstr ""
+
+#: includes/theme.options.php:1208
+msgid "Google map style"
+msgstr ""
+
+#: includes/theme.options.php:1209
+msgid "Select style to show Google map"
+msgstr ""
+
+#: includes/theme.options.php:1219
+msgid "Google map marker"
+msgstr ""
+
+#: includes/theme.options.php:1220
+msgid "Select or upload png-image with Google map marker"
+msgstr ""
+
+#: includes/theme.options.php:1230
+msgid "Contacts area"
+msgstr ""
+
+#: includes/theme.options.php:1231
+msgid "Show/Hide contacts area in the footer"
+msgstr ""
+
+#: includes/theme.options.php:1236
+msgid "Show Contacts in footer"
+msgstr ""
+
+#: includes/theme.options.php:1237
+msgid ""
+"Show contact information area in footer: site logo, contact info and large "
+"social icons"
+msgstr ""
+
+#: includes/theme.options.php:1245
+msgid "Select predefined color scheme for the contacts area"
+msgstr ""
+
+#: includes/theme.options.php:1256
+msgid "Logo image for footer"
+msgstr ""
+
+#: includes/theme.options.php:1257
+msgid "Logo image in the footer (in the contacts area)"
+msgstr ""
+
+#: includes/theme.options.php:1267
+msgid "Logo image for footer for Retina"
+msgstr ""
+
+#: includes/theme.options.php:1268
+msgid "Logo image in the footer (in the contacts area) used on Retina display"
+msgstr ""
+
+#: includes/theme.options.php:1279
+msgid "Height for the logo in the footer area (in the contacts area)"
+msgstr ""
+
+#: includes/theme.options.php:1295
+msgid "Copyright and footer menu"
+msgstr ""
+
+#: includes/theme.options.php:1296
+msgid "Show/Hide copyright area in the footer"
+msgstr ""
+
+#: includes/theme.options.php:1301
+msgid "Show Copyright area in footer"
+msgstr ""
+
+#: includes/theme.options.php:1302
+msgid ""
+"Show area with copyright information, footer menu and small social icons in "
+"footer"
+msgstr ""
+
+#: includes/theme.options.php:1308
+msgid "Text and menu"
+msgstr ""
+
+#: includes/theme.options.php:1309
+msgid "Text and Social icons"
+msgstr ""
+
+#: includes/theme.options.php:1315
+msgid "Select predefined color scheme for the copyright area"
+msgstr ""
+
+#: includes/theme.options.php:1326
+msgid "Select footer menu"
+msgstr ""
+
+#: includes/theme.options.php:1327
+msgid "Select footer menu for the current page"
+msgstr ""
+
+#: includes/theme.options.php:1337
+msgid "Footer copyright text"
+msgstr ""
+
+#: includes/theme.options.php:1338
+msgid "Copyright text to show in footer area (bottom of site)"
+msgstr ""
+
+#: includes/theme.options.php:1355
+msgid "Other"
+msgstr ""
+
+#: includes/theme.options.php:1362
+msgid "Theme customization other parameters"
+msgstr ""
+
+#: includes/theme.options.php:1363
+msgid "Animation parameters and responsive layouts for the small screens"
+msgstr ""
+
+#: includes/theme.options.php:1368
+msgid "Show Theme customizer"
+msgstr ""
+
+#: includes/theme.options.php:1369
+msgid ""
+"Do you want to show theme customizer in the right panel? Your website "
+"visitors will be able to customise it yourself."
+msgstr ""
+
+#: includes/theme.options.php:1376
+msgid "Theme customizer panel demo time"
+msgstr ""
+
+#: includes/theme.options.php:1377
+msgid ""
+"Timer for demo mode for the customizer panel (in milliseconds: 1000ms = 1s). "
+"If 0 - no demo."
+msgstr ""
+
+#: includes/theme.options.php:1388
+msgid "Extended CSS animations"
+msgstr ""
+
+#: includes/theme.options.php:1389
+msgid "Do you want use extended animations effects on your site?"
+msgstr ""
+
+#: includes/theme.options.php:1396
+msgid "Allow CSS animations on mobile"
+msgstr ""
+
+#: includes/theme.options.php:1397
+msgid "Do you allow extended animations effects on mobile devices?"
+msgstr ""
+
+#: includes/theme.options.php:1404
+msgid "Buttons hover"
+msgstr ""
+
+#: includes/theme.options.php:1405
+msgid ""
+"Select hover effect for all theme's buttons (and buttons from the thirdparty "
+"plugins if possible)"
+msgstr ""
+
+#: includes/theme.options.php:1411
+msgid "Input fileds style"
+msgstr ""
+
+#: includes/theme.options.php:1412
+msgid ""
+"Select style for all theme's input fields (and fields from the thirdparty "
+"plugins if possible)"
+msgstr ""
+
+#: includes/theme.options.php:1418
+msgid "Remember visitor's settings"
+msgstr ""
+
+#: includes/theme.options.php:1419
+msgid ""
+"To remember the settings that were made by the visitor, when navigating to "
+"other pages or to limit their effect only within the current page"
+msgstr ""
+
+#: includes/theme.options.php:1426
+msgid "Responsive Layouts"
+msgstr ""
+
+#: includes/theme.options.php:1427
+msgid ""
+"Do you want use responsive layouts on small screen or still use main layout?"
+msgstr ""
+
+#: includes/theme.options.php:1434
+msgid "Show page preloader"
+msgstr ""
+
+#: includes/theme.options.php:1435
+msgid ""
+"Select one of predefined styles for the page preloader or upload preloader "
+"image"
+msgstr ""
+
+#: includes/theme.options.php:1439
+msgid "Hide preloader"
+msgstr ""
+
+#: includes/theme.options.php:1440
+msgid "Circle"
+msgstr ""
+
+#: includes/theme.options.php:1442 plugins/support.services.php:637
+#: plugins/support.services.php:956 plugins/support.team.php:827
+#: plugins/support.team.php:1165 plugins/support.testimonials.php:557
+#: plugins/support.testimonials.php:835
+msgid "Custom"
+msgstr ""
+
+#: includes/theme.options.php:1445
+msgid "Text with Privacy Policy link"
+msgstr ""
+
+#: includes/theme.options.php:1446
+msgid "Specify text with Privacy Policy link for the checkbox 'I agree ...'"
+msgstr ""
+
+#: includes/theme.options.php:1447
+msgid "I agree that my submitted data is being collected and stored."
+msgstr ""
+
+#: includes/theme.options.php:1453
+msgid "Upload preloader image"
+msgstr ""
+
+#: includes/theme.options.php:1454
+msgid "Upload animated GIF to use it as page preloader"
+msgstr ""
+
+#: includes/theme.options.php:1464
+msgid "Google fonts parameters"
+msgstr ""
+
+#: includes/theme.options.php:1465
+msgid "Specify additional parameters, used to load Google fonts"
+msgstr ""
+
+#: includes/theme.options.php:1470
+msgid "Characters subset"
+msgstr ""
+
+#: includes/theme.options.php:1471
+msgid "Select subset, included into used Google fonts"
+msgstr ""
+
+#: includes/theme.options.php:1474
+msgid "Latin"
+msgstr ""
+
+#: includes/theme.options.php:1475
+msgid "Latin Extended"
+msgstr ""
+
+#: includes/theme.options.php:1476
+msgid "Greek"
+msgstr ""
+
+#: includes/theme.options.php:1477
+msgid "Greek Extended"
+msgstr ""
+
+#: includes/theme.options.php:1478
+msgid "Cyrillic"
+msgstr ""
+
+#: includes/theme.options.php:1479
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: includes/theme.options.php:1480
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/theme.options.php:1498
+msgid "Blog &amp; Single"
+msgstr ""
+
+#: includes/theme.options.php:1509
+msgid "Stream page"
+msgstr ""
+
+#: includes/theme.options.php:1516
+msgid "Blog streampage parameters"
+msgstr ""
+
+#: includes/theme.options.php:1517
+msgid ""
+"Select desired blog streampage parameters (you can override it in each "
+"category)"
+msgstr ""
+
+#: includes/theme.options.php:1522
+msgid "Blog style"
+msgstr ""
+
+#: includes/theme.options.php:1523
+msgid "Select desired blog style"
+msgstr ""
+
+#: includes/theme.options.php:1530
+msgid "Hover style"
+msgstr ""
+
+#: includes/theme.options.php:1531
+msgid "Select desired hover style (only for Blog style = Portfolio)"
+msgstr ""
+
+#: includes/theme.options.php:1541
+msgid "Hover dir"
+msgstr ""
+
+#: includes/theme.options.php:1542
+msgid ""
+"Select hover direction (only for Blog style = Portfolio and Hover style = "
+"Circle or Square)"
+msgstr ""
+
+#: includes/theme.options.php:1553
+msgid "Article style"
+msgstr ""
+
+#: includes/theme.options.php:1554
+msgid "Select article display method: boxed or stretch"
+msgstr ""
+
+#: includes/theme.options.php:1562
+msgid "Dedicated location"
+msgstr ""
+
+#: includes/theme.options.php:1563
+msgid ""
+"Select location for the dedicated content or featured image in the \"excerpt"
+"\" blog style"
+msgstr ""
+
+#: includes/theme.options.php:1573
+msgid "Show filters"
+msgstr ""
+
+#: includes/theme.options.php:1574
+msgid "What taxonomy use for filter buttons"
+msgstr ""
+
+#: includes/theme.options.php:1584
+msgid "Blog posts sorted by"
+msgstr ""
+
+#: includes/theme.options.php:1585
+msgid "Select the desired sorting method for posts"
+msgstr ""
+
+#: includes/theme.options.php:1593
+msgid "Blog posts order"
+msgstr ""
+
+#: includes/theme.options.php:1602
+msgid "Blog posts per page"
+msgstr ""
+
+#: includes/theme.options.php:1603
+msgid ""
+"How many posts display on blog pages for selected style. If empty or 0 - "
+"inherit system wordpress settings"
+msgstr ""
+
+#: includes/theme.options.php:1610
+msgid "Excerpt maxlength for streampage"
+msgstr ""
+
+#: includes/theme.options.php:1611
+msgid ""
+"How many characters from post excerpt are display in blog streampage (only "
+"for Blog style = Excerpt). 0 - do not trim excerpt."
+msgstr ""
+
+#: includes/theme.options.php:1621
+msgid "Excerpt maxlength for classic and masonry"
+msgstr ""
+
+#: includes/theme.options.php:1622
+msgid ""
+"How many characters from post excerpt are display in blog streampage (only "
+"for Blog style = Classic or Masonry). 0 - do not trim excerpt."
+msgstr ""
+
+#: includes/theme.options.php:1638
+msgid "Single page"
+msgstr ""
+
+#: includes/theme.options.php:1645
+msgid "Single (detail) pages parameters"
+msgstr ""
+
+#: includes/theme.options.php:1646
+msgid ""
+"Select desired parameters for single (detail) pages (you can override it in "
+"each category and single post (page))"
+msgstr ""
+
+#: includes/theme.options.php:1651
+msgid "Single page style"
+msgstr ""
+
+#: includes/theme.options.php:1652
+msgid "Select desired style for single page"
+msgstr ""
+
+#: includes/theme.options.php:1660
+msgid "Select post icon"
+msgstr ""
+
+#: includes/theme.options.php:1661
+msgid "Select icon for output before post/category name in some layouts"
+msgstr ""
+
+#: includes/theme.options.php:1670
+msgid "Alter thumb size (WxH)"
+msgstr ""
+
+#: includes/theme.options.php:1672
+msgid ""
+"Select thumb size for the alternative portfolio layout (number items "
+"horizontally x number items vertically)"
+msgstr ""
+
+#: includes/theme.options.php:1680
+msgid "Show featured image before post"
+msgstr ""
+
+#: includes/theme.options.php:1681
+msgid "Show featured image (if selected) before post content on single pages"
+msgstr ""
+
+#: includes/theme.options.php:1688
+msgid "Show post title"
+msgstr ""
+
+#: includes/theme.options.php:1689
+msgid "Show area with post title on single pages"
+msgstr ""
+
+#: includes/theme.options.php:1696
+msgid "Show post title on links, chat, quote, status"
+msgstr ""
+
+#: includes/theme.options.php:1697
+msgid ""
+"Show area with post title on single and blog pages in specific post formats: "
+"links, chat, quote, status"
+msgstr ""
+
+#: includes/theme.options.php:1704
+msgid "Show post info"
+msgstr ""
+
+#: includes/theme.options.php:1705
+msgid "Show area with post info on single pages"
+msgstr ""
+
+#: includes/theme.options.php:1712
+msgid "Show text before \"Read more\" tag"
+msgstr ""
+
+#: includes/theme.options.php:1713
+msgid "Show text before \"Read more\" tag on single pages"
+msgstr ""
+
+#: includes/theme.options.php:1719
+msgid "Show post author details"
+msgstr ""
+
+#: includes/theme.options.php:1720
+msgid "Show post author information block on single post page"
+msgstr ""
+
+#: includes/theme.options.php:1727
+msgid "Show post tags"
+msgstr ""
+
+#: includes/theme.options.php:1728
+msgid "Show tags block on single post page"
+msgstr ""
+
+#: includes/theme.options.php:1734
+msgid "Show related posts"
+msgstr ""
+
+#: includes/theme.options.php:1735
+msgid "Show related posts block on single post page"
+msgstr ""
+
+#: includes/theme.options.php:1745
+msgid "Other parameters"
+msgstr ""
+
+#: includes/theme.options.php:1751
+msgid "Other Blog parameters"
+msgstr ""
+
+#: includes/theme.options.php:1752
+msgid "Select excluded categories, substitute parameters, etc."
+msgstr ""
+
+#: includes/theme.options.php:1756
+msgid "Exclude categories"
+msgstr ""
+
+#: includes/theme.options.php:1757
+msgid "Select categories, which posts are exclude from blog page"
+msgstr ""
+
+#: includes/theme.options.php:1765
+msgid "Blog pagination"
+msgstr ""
+
+#: includes/theme.options.php:1766
+msgid "Select type of the pagination on blog streampages"
+msgstr ""
+
+#: includes/theme.options.php:1770
+msgid "Standard page numbers"
+msgstr ""
+
+#: includes/theme.options.php:1771
+msgid "Slider with page numbers"
+msgstr ""
+
+#: includes/theme.options.php:1772
+msgid "\"View more\" button"
+msgstr ""
+
+#: includes/theme.options.php:1773
+msgid "Infinite scroll"
+msgstr ""
+
+#: includes/theme.options.php:1779
+msgid "Blog counters"
+msgstr ""
+
+#: includes/theme.options.php:1780
+msgid "Select counters, displayed near the post title"
+msgstr ""
+
+#: includes/theme.options.php:1789
+msgid "Post's category announce"
+msgstr ""
+
+#: includes/theme.options.php:1790
+msgid ""
+"What category display in announce block (over posts thumb) - original or "
+"nearest parental"
+msgstr ""
+
+#: includes/theme.options.php:1794
+msgid "Nearest parental category"
+msgstr ""
+
+#: includes/theme.options.php:1795
+msgid "Original post's category"
+msgstr ""
+
+#: includes/theme.options.php:1801
+msgid "Show post date after"
+msgstr ""
+
+#: includes/theme.options.php:1802
+msgid "Show post date after N days (before - show post age)"
+msgstr ""
+
+#: includes/theme.options.php:1813
+msgid "Media"
+msgstr ""
+
+#: includes/theme.options.php:1819
+msgid "Media settings"
+msgstr ""
+
+#: includes/theme.options.php:1820
+msgid "Set up parameters to show images, galleries, audio and video posts"
+msgstr ""
+
+#: includes/theme.options.php:1825
+msgid "Image dimensions"
+msgstr ""
+
+#: includes/theme.options.php:1826
+msgid ""
+"What dimensions use for uploaded image: Original or \"Retina ready\" (twice "
+"enlarged)"
+msgstr ""
+
+#: includes/theme.options.php:1830 includes/theme.styles.php:92
+msgid "Original"
+msgstr ""
+
+#: includes/theme.options.php:1831
+msgid "Retina"
+msgstr ""
+
+#: includes/theme.options.php:1836
+msgid "Quality for cropped images"
+msgstr ""
+
+#: includes/theme.options.php:1837
+msgid "Quality (1-100) to save cropped images"
+msgstr ""
+
+#: includes/theme.options.php:1844
+msgid "Substitute standard Wordpress gallery"
+msgstr ""
+
+#: includes/theme.options.php:1845
+msgid ""
+"Substitute standard Wordpress gallery with our slider on the single pages"
+msgstr ""
+
+#: includes/theme.options.php:1852
+msgid "Show gallery instead featured image"
+msgstr ""
+
+#: includes/theme.options.php:1853
+msgid ""
+"Show slider with gallery instead featured image on blog streampage and in "
+"the related posts section for the gallery posts"
+msgstr ""
+
+#: includes/theme.options.php:1860
+msgid "Max images number in the slider"
+msgstr ""
+
+#: includes/theme.options.php:1861
+msgid "Maximum images number from gallery into slider"
+msgstr ""
+
+#: includes/theme.options.php:1872
+msgid "Popup engine to zoom images"
+msgstr ""
+
+#: includes/theme.options.php:1873
+msgid "Select engine to show popup windows with images and galleries"
+msgstr ""
+
+#: includes/theme.options.php:1879
+msgid "Substitute audio tags"
+msgstr ""
+
+#: includes/theme.options.php:1880
+msgid "Substitute audio tag with source from soundcloud to embed player"
+msgstr ""
+
+#: includes/theme.options.php:1887
+msgid "Substitute video tags"
+msgstr ""
+
+#: includes/theme.options.php:1888
+msgid ""
+"Substitute video tags with embed players or leave video tags unchanged (if "
+"you use third party plugins for the video tags)"
+msgstr ""
+
+#: includes/theme.options.php:1895
+msgid "Use Media Element script for audio and video tags"
+msgstr ""
+
+#: includes/theme.options.php:1896
+msgid ""
+"Do you want use the Media Element script for all audio and video tags on "
+"your site or leave standard HTML5 behaviour?"
+msgstr ""
+
+#: includes/theme.options.php:1908 plugins/support.team.php:1011
+#: plugins/support.team.php:1401
+msgid "Socials"
+msgstr ""
+
+#: includes/theme.options.php:1914 includes/theme.options.php:1919
+msgid "Social networks"
+msgstr ""
+
+#: includes/theme.options.php:1915
+msgid "Social networks list for site footer and Social widget"
+msgstr ""
+
+#: includes/theme.options.php:1920
+msgid "Select icon and write URL to your profile in desired social networks."
+msgstr ""
+
+#: includes/theme.options.php:1929 includes/theme.options.php:1976
+msgid "Share buttons"
+msgstr ""
+
+#: includes/theme.options.php:1930
+msgid ""
+"Add button's code for each social share network.<br>\n"
+"\t\t\t\t\tIn share url you can use next macro:<br>\n"
+"\t\t\t\t\t<b>{url}</b> - share post (page) URL,<br>\n"
+"\t\t\t\t\t<b>{title}</b> - post title,<br>\n"
+"\t\t\t\t\t<b>{image}</b> - post image,<br>\n"
+"\t\t\t\t\t<b>{descr}</b> - post description (if supported)<br>\n"
+"\t\t\t\t\tFor example:<br>\n"
+"\t\t\t\t\t<b>Facebook</b> share string: <em>http://www.facebook.com/sharer."
+"php?u={link}&amp;t={title}</em><br>\n"
+"\t\t\t\t\t<b>Delicious</b> share string: <em>http://delicious.com/save?"
+"url={link}&amp;title={title}&amp;note={descr}</em>"
+msgstr ""
+
+#: includes/theme.options.php:1943
+msgid "Show social share buttons"
+msgstr ""
+
+#: includes/theme.options.php:1944
+msgid "Show social share buttons block"
+msgstr ""
+
+#: includes/theme.options.php:1955
+msgid "Show share counters"
+msgstr ""
+
+#: includes/theme.options.php:1956
+msgid "Show share counters after social buttons"
+msgstr ""
+
+#: includes/theme.options.php:1966
+msgid "Share block caption"
+msgstr ""
+
+#: includes/theme.options.php:1967
+msgid "Caption for the block with social share buttons"
+msgstr ""
+
+#: includes/theme.options.php:1972
+msgid "Share:"
+msgstr ""
+
+#: includes/theme.options.php:1977
+msgid ""
+"Select icon and write share URL for desired social networks.<br><b>Important!"
+"</b> If you leave text field empty - internal theme link will be used (if "
+"present)."
+msgstr ""
+
+#: includes/theme.options.php:1990
+msgid "Twitter API keys"
+msgstr ""
+
+#: includes/theme.options.php:1991
+msgid ""
+"Put to this section Twitter API 1.1 keys.<br>You can take them after "
+"registration your application in <strong>https://apps.twitter.com/</strong>"
+msgstr ""
+
+#: includes/theme.options.php:1995
+msgid "Twitter username"
+msgstr ""
+
+#: includes/theme.options.php:1996
+msgid "Your login (username) in Twitter"
+msgstr ""
+
+#: includes/theme.options.php:2002
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/theme.options.php:2003
+msgid "Twitter API Consumer key"
+msgstr ""
+
+#: includes/theme.options.php:2009
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/theme.options.php:2010
+msgid "Twitter API Consumer secret"
+msgstr ""
+
+#: includes/theme.options.php:2016
+msgid "Token Key"
+msgstr ""
+
+#: includes/theme.options.php:2017
+msgid "Twitter API Token key"
+msgstr ""
+
+#: includes/theme.options.php:2023
+msgid "Token Secret"
+msgstr ""
+
+#: includes/theme.options.php:2024
+msgid "Twitter API Token secret"
+msgstr ""
+
+#: includes/theme.options.php:2030
+msgid "Google API Keys"
+msgstr ""
+
+#: includes/theme.options.php:2031
+msgid "API Keys for some Web services"
+msgstr ""
+
+#: includes/theme.options.php:2034
+msgid "Google API Key for browsers"
+msgstr ""
+
+#: includes/theme.options.php:2035
+msgid ""
+"Insert Google API Key for browsers into the field above to generate Google "
+"Maps"
+msgstr ""
+
+#: includes/theme.options.php:2040
+msgid "Login via Socials"
+msgstr ""
+
+#: includes/theme.options.php:2041
+msgid "Settings for the Login via Social networks"
+msgstr ""
+
+#: includes/theme.options.php:2045
+msgid "Shortcode or any HTML/JS code"
+msgstr ""
+
+#: includes/theme.options.php:2046
+msgid ""
+"Specify shortcode from your Social Login Plugin or any HTML/JS code to make "
+"Social Login section"
+msgstr ""
+
+#: includes/theme.options.php:2057
+msgid "Contact info"
+msgstr ""
+
+#: includes/theme.options.php:2062
+msgid "Contact information"
+msgstr ""
+
+#: includes/theme.options.php:2063
+msgid "Company address, phones and e-mail"
+msgstr ""
+
+#: includes/theme.options.php:2067
+msgid "Contacts in the header"
+msgstr ""
+
+#: includes/theme.options.php:2068
+msgid "String with contact info in the left side of the site header"
+msgstr ""
+
+#: includes/theme.options.php:2075
+msgid "Open hours in the header"
+msgstr ""
+
+#: includes/theme.options.php:2076
+msgid "String with open hours in the site header"
+msgstr ""
+
+#: includes/theme.options.php:2083
+msgid "Contact form email"
+msgstr ""
+
+#: includes/theme.options.php:2084
+msgid "E-mail for send contact form and user registration data"
+msgstr ""
+
+#: includes/theme.options.php:2090
+msgid "Company address (part 1)"
+msgstr ""
+
+#: includes/theme.options.php:2091
+msgid "Company country, post code and city"
+msgstr ""
+
+#: includes/theme.options.php:2097
+msgid "Company address (part 2)"
+msgstr ""
+
+#: includes/theme.options.php:2098
+msgid "Street and house number"
+msgstr ""
+
+#: includes/theme.options.php:2104 plugins/support.team.php:69
+#: plugins/support.team.php:970
+msgid "Phone"
+msgstr ""
+
+#: includes/theme.options.php:2105
+msgid "Phone number"
+msgstr ""
+
+#: includes/theme.options.php:2112
+msgid "Fax"
+msgstr ""
+
+#: includes/theme.options.php:2113
+msgid "Fax number"
+msgstr ""
+
+#: includes/theme.options.php:2120
+msgid "Contact and Comments form"
+msgstr ""
+
+#: includes/theme.options.php:2121
+msgid ""
+"Maximum length of the messages in the contact form shortcode and in the "
+"comments form"
+msgstr ""
+
+#: includes/theme.options.php:2125
+msgid "Contact form message"
+msgstr ""
+
+#: includes/theme.options.php:2126
+msgid "Message's maxlength in the contact form shortcode"
+msgstr ""
+
+#: includes/theme.options.php:2134
+msgid "Comments form message"
+msgstr ""
+
+#: includes/theme.options.php:2135
+msgid "Message's maxlength in the comments form"
+msgstr ""
+
+#: includes/theme.options.php:2143
+msgid "Default mail function"
+msgstr ""
+
+#: includes/theme.options.php:2144
+msgid ""
+"What function use to send mail: the built-in Wordpress wp_mail or standard "
+"PHP mail function? Attention! Some plugins may not work with one of them and "
+"you always have the ability to switch to alternative."
+msgstr ""
+
+#: includes/theme.options.php:2148
+msgid "Mail function"
+msgstr ""
+
+#: includes/theme.options.php:2149
+msgid ""
+"What function use to send mail? Attention! Only wp_mail support attachment "
+"in the mail!"
+msgstr ""
+
+#: includes/theme.options.php:2153
+msgid "WP mail"
+msgstr ""
+
+#: includes/theme.options.php:2154
+msgid "PHP mail"
+msgstr ""
+
+#: includes/theme.options.php:2168
+msgid "Search"
+msgstr ""
+
+#: includes/theme.options.php:2173
+msgid "Search parameters"
+msgstr ""
+
+#: includes/theme.options.php:2174
+msgid "Enable/disable AJAX search and output settings for it"
+msgstr ""
+
+#: includes/theme.options.php:2178
+msgid "Show search field"
+msgstr ""
+
+#: includes/theme.options.php:2179
+msgid "Show search field in the top area and side menus"
+msgstr ""
+
+#: includes/theme.options.php:2185
+msgid "Select search style"
+msgstr ""
+
+#: includes/theme.options.php:2186
+msgid "Select style for the search field"
+msgstr ""
+
+#: includes/theme.options.php:2192
+msgid "Enable AJAX search"
+msgstr ""
+
+#: includes/theme.options.php:2193
+msgid "Use incremental AJAX search for the search field in top of page"
+msgstr ""
+
+#: includes/theme.options.php:2203
+msgid "Min search string length"
+msgstr ""
+
+#: includes/theme.options.php:2204
+msgid "The minimum length of the search string"
+msgstr ""
+
+#: includes/theme.options.php:2215
+msgid "Delay before search (in ms)"
+msgstr ""
+
+#: includes/theme.options.php:2216
+msgid ""
+"How much time (in milliseconds, 1000 ms = 1 second) must pass after the last "
+"character before the start search"
+msgstr ""
+
+#: includes/theme.options.php:2229
+msgid "Search area"
+msgstr ""
+
+#: includes/theme.options.php:2230
+msgid ""
+"Select post types, what will be include in search results. If not selected - "
+"use all types."
+msgstr ""
+
+#: includes/theme.options.php:2243
+msgid "Posts number in output"
+msgstr ""
+
+#: includes/theme.options.php:2249
+msgid "Number of the posts to show in search results"
+msgstr ""
+
+#: includes/theme.options.php:2256
+msgid "Show post's image"
+msgstr ""
+
+#: includes/theme.options.php:2262
+msgid "Show post's thumbnail in the search results"
+msgstr ""
+
+#: includes/theme.options.php:2268
+msgid "Show post's date"
+msgstr ""
+
+#: includes/theme.options.php:2274
+msgid "Show post's publish date in the search results"
+msgstr ""
+
+#: includes/theme.options.php:2280
+msgid "Show post's author"
+msgstr ""
+
+#: includes/theme.options.php:2286
+msgid "Show post's author in the search results"
+msgstr ""
+
+#: includes/theme.options.php:2292
+msgid "Show post's counters"
+msgstr ""
+
+#: includes/theme.options.php:2298
+msgid "Show post's counters (views, comments, likes) in the search results"
+msgstr ""
+
+#: includes/theme.options.php:2312
+msgid "Service"
+msgstr ""
+
+#: includes/theme.options.php:2317
+msgid "Theme functionality"
+msgstr ""
+
+#: includes/theme.options.php:2318
+msgid "Basic theme functionality settings"
+msgstr ""
+
+#: includes/theme.options.php:2322
+msgid "Use AJAX post views counter"
+msgstr ""
+
+#: includes/theme.options.php:2323
+msgid ""
+"Use javascript for post views count (if site work under the caching plugin) "
+"or increment views count in single page template"
+msgstr ""
+
+#: includes/theme.options.php:2329
+msgid "Frontend editor"
+msgstr ""
+
+#: includes/theme.options.php:2330
+msgid "Allow authors to edit their posts in frontend area"
+msgstr ""
+
+#: includes/theme.options.php:2336
+msgid "Additional filters in the admin panel"
+msgstr ""
+
+#: includes/theme.options.php:2337
+msgid ""
+"Show additional filters (on post formats, tags and categories) in admin "
+"panel page \"Posts\". <br>Attention! If you have more than 2.000-3.000 "
+"posts, enabling this option may cause slow load of the \"Posts\" page! If "
+"you encounter such slow down, simply open Appearance - Theme Options - "
+"Service and set \"No\" for this option."
+msgstr ""
+
+#: includes/theme.options.php:2343
+msgid "Show overriden options for taxonomies"
+msgstr ""
+
+#: includes/theme.options.php:2344
+msgid ""
+"Show extra column in categories list, where changed (overriden) theme "
+"options are displayed."
+msgstr ""
+
+#: includes/theme.options.php:2350
+msgid "Show overriden options for posts and pages"
+msgstr ""
+
+#: includes/theme.options.php:2351
+msgid ""
+"Show extra column in posts and pages list, where changed (overriden) theme "
+"options are displayed."
+msgstr ""
+
+#: includes/theme.options.php:2357
+msgid "Enable Dummy Data Installer"
+msgstr ""
+
+#: includes/theme.options.php:2358
+msgid ""
+"Show \"Install Dummy Data\" in the menu \"Appearance\". <b>Attention!</b> "
+"When you install dummy data all content of your site will be replaced!"
+msgstr ""
+
+#: includes/theme.options.php:2364
+msgid "Dummy Data Installer Timeout"
+msgstr ""
+
+#: includes/theme.options.php:2365
+msgid ""
+"Web-servers set the time limit for the execution of php-scripts. By default, "
+"this is 30 sec. Therefore, the import process will be split into parts. Upon "
+"completion of each part - the import will resume automatically! The import "
+"process will try to increase this limit to the time, specified in this field."
+msgstr ""
+
+#: includes/theme.options.php:2372
+msgid "Debug mode"
+msgstr ""
+
+#: includes/theme.options.php:2373
+msgid ""
+"In debug mode we are using unpacked scripts and styles, else - using "
+"minified scripts and styles (if present). <b>Attention!</b> If you have "
+"modified the source code in the js or css files, regardless of this option "
+"will be used latest (modified) version stylesheets and scripts. You can re-"
+"create minified versions of files using on-line services or utilities"
+msgstr ""
+
+#: includes/theme.options.php:2408
+#, php-format
+msgid "Wrong function name %s in the theme options array"
+msgstr ""
+
+#: includes/theme.shortcodes.php:14
+msgid "Greyscale"
+msgstr ""
+
+#: includes/theme.shortcodes.php:15
+msgid "Inverse"
+msgstr ""
+
+#: includes/theme.shortcodes.php:16
+msgid "Apple"
+msgstr ""
+
+#: includes/theme.styles.no_less.php:290
+msgid "ATTENTION! This file was generated automatically! Don't change it!!!"
+msgstr ""
+
+#: includes/theme.styles.php:183
+msgid "Color blocks"
+msgstr ""
+
+#: includes/theme.styles.php:239
+msgid "Heading 1"
+msgstr ""
+
+#: includes/theme.styles.php:251
+msgid "Heading 2"
+msgstr ""
+
+#: includes/theme.styles.php:263
+msgid "Heading 3"
+msgstr ""
+
+#: includes/theme.styles.php:275
+msgid "Heading 4"
+msgstr ""
+
+#: includes/theme.styles.php:287
+msgid "Heading 5"
+msgstr ""
+
+#: includes/theme.styles.php:299
+msgid "Heading 6"
+msgstr ""
+
+#: includes/theme.styles.php:332
+msgid "Post info"
+msgstr ""
+
+#: includes/theme.styles.php:344
+msgid "Main menu items"
+msgstr ""
+
+#: includes/theme.styles.php:356
+msgid "Dropdown menu items"
+msgstr ""
+
+#: includes/theme.styles.php:368
+msgid "Logo"
+msgstr ""
+
+#: includes/theme.styles.php:380
+msgid "Buttons"
+msgstr ""
+
+#: includes/theme.styles.php:390
+msgid "Input fields"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:43 plugins/plugin.essgrids.php:228
+msgid "Essential Grid"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:64
+msgid "Essential Grids"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:90
+msgid "Import Essential Grid"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:102
+msgid "Clear Essential Grid tables"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:105
+#, php-format
+msgid "Failed truncate table \"%s\". Error message: %s"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:194
+msgid "Essential Grid import complete"
+msgstr ""
+
+#: plugins/plugin.essgrids.php:197
+#, php-format
+msgid "Essential Grid import error: %s"
+msgstr ""
+
+#: plugins/plugin.gutenberg.php:28
+msgid "Gutenberg"
+msgstr ""
+
+#: plugins/plugin.instagram-feed.php:34 plugins/plugin.instagram-feed.php:52
+msgid "Instagram Feed"
+msgstr ""
+
+#: plugins/plugin.instagram-widget.php:32
+msgid "Instagram Widget"
+msgstr ""
+
+#: plugins/plugin.instagram-widget.php:59
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: plugins/plugin.mailchimp.php:36
+msgid "MailChimp for WP"
+msgstr ""
+
+#: plugins/plugin.mailchimp.php:54
+msgid "Mail Chimp"
+msgstr ""
+
+#: plugins/plugin.mailchimp.php:79
+msgid "Import MailChimp for WP"
+msgstr ""
+
+#: plugins/plugin.revslider.php:37
+msgid "Revolution Slider: Select slider"
+msgstr ""
+
+#: plugins/plugin.revslider.php:38
+msgid "Select slider to show (if engine=revo in the field above)"
+msgstr ""
+
+#: plugins/plugin.revslider.php:69 plugins/plugin.revslider.php:91
+#: plugins/plugin.revslider.php:218
+msgid "Revolution Slider"
+msgstr ""
+
+#: plugins/plugin.revslider.php:118
+msgid "Import Revolution Sliders"
+msgstr ""
+
+#: plugins/plugin.revslider.php:130
+msgid "Clear Revolution Slider tables"
+msgstr ""
+
+#: plugins/plugin.revslider.php:133
+msgid "Failed truncate table \"revslider_sliders\"."
+msgstr ""
+
+#: plugins/plugin.revslider.php:135
+msgid "Failed truncate table \"revslider_slides\"."
+msgstr ""
+
+#: plugins/plugin.revslider.php:137
+msgid "Failed truncate table \"revslider_static_slides\"."
+msgstr ""
+
+#: plugins/plugin.revslider.php:149
+msgid "Import Revolution sliders"
+msgstr ""
+
+#: plugins/plugin.revslider.php:185
+#, php-format
+msgid "Revolution Slider \"%s\" import error."
+msgstr ""
+
+#: plugins/plugin.revslider.php:196
+#, php-format
+msgid "Slider \"%s\" imported"
+msgstr ""
+
+#: plugins/plugin.revslider.php:206
+#, php-format
+msgid "Can not locate plugin Revolution Slider: %s"
+msgstr ""
+
+#: plugins/plugin.revslider.php:238
+msgid "Revolution Sliders"
+msgstr ""
+
+#: plugins/plugin.revslider.php:251
+msgid "Layer slider (Revolution)"
+msgstr ""
+
+#: plugins/plugin.visual-composer.php:45 plugins/plugin.visual-composer.php:75
+msgid "WPBakery PageBuilder"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:78 plugins/plugin.woocommerce.php:726
+#: plugins/plugin.woocommerce.php:834 plugins/plugin.woocommerce.php:1456
+#: plugins/plugin.woocommerce.php:1484 plugins/plugin.woocommerce.php:1512
+#: plugins/plugin.woocommerce.php:1540 plugins/plugin.woocommerce.php:1568
+#: plugins/plugin.woocommerce.php:1596 plugins/plugin.woocommerce.php:1666
+#: plugins/plugin.woocommerce.php:1704 plugins/plugin.woocommerce.php:1743
+#: plugins/plugin.woocommerce.php:1804 plugins/plugin.woocommerce.php:1855
+#: plugins/plugin.woocommerce.php:1915 plugins/plugin.woocommerce.php:1975
+#: plugins/plugin.woocommerce.php:2035 plugins/plugin.woocommerce.php:2117
+#: plugins/plugin.woocommerce.php:2187 plugins/plugin.woocommerce.php:2265
+msgid "WooCommerce"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:83
+msgid "WooCommerce products list parameters"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:84
+msgid "Select WooCommerce products list's style and crop parameters"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:88
+msgid "Shop list style"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:89
+msgid "WooCommerce products list's style: thumbs or list with description"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:93
+msgid "Thumbs"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:94
+msgid "List"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:99
+msgid "Show style buttons"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:100
+msgid "Show buttons to allow visitors change list style"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:106
+msgid "Shop columns"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:107
+msgid "How many columns used to show products on shop page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:115
+msgid "Show currency selector"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:116
+msgid "Show currency selector in the user menu"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:122
+msgid "Show cart button"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:123
+msgid "Show cart button in the user menu"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:128
+msgid "Only on shop pages"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:133
+msgid "Crop product's thumbnail"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:134
+msgid "Crop product's thumbnails on search results page or scale it"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:306
+msgid "Tag:"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:308
+msgid "Your cart"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:310 plugins/plugin.woocommerce.php:1482
+msgid "Checkout"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:312
+msgid "Account"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:318 plugins/plugin.woocommerce.php:335
+msgid "Shop"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:407 plugins/plugin.woocommerce.php:2115
+msgid "Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:505
+msgid "Show products as thumbs"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:506
+msgid "Show products as list"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:580
+msgid "Product ID: "
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:656
+msgid "Search for products &hellip;"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:656
+msgid "Search for products:"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:784
+msgid "Import WooCommerce"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:796 plugins/plugin.woocommerce.php:808
+msgid "WooCommerce meta"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:849
+msgid "Woocommerce: Cart"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:850
+msgid "WooCommerce shortcode: show Cart page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:859
+msgid "Woocommerce: Checkout"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:860
+msgid "WooCommerce shortcode: show Checkout page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:869
+msgid "Woocommerce: My Account"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:870
+msgid "WooCommerce shortcode: show My Account page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:879
+msgid "Woocommerce: Order Tracking"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:880
+msgid "WooCommerce shortcode: show Order Tracking page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:889
+msgid "Woocommerce: Shop Messages"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:890 plugins/plugin.woocommerce.php:1567
+msgid "WooCommerce shortcode: show shop messages"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:899
+msgid "Woocommerce: Product Page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:900 plugins/plugin.woocommerce.php:1595
+msgid "WooCommerce shortcode: display single product page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:905 plugins/plugin.woocommerce.php:954
+#: plugins/plugin.woocommerce.php:1605 plugins/plugin.woocommerce.php:1675
+msgid "SKU"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:906 plugins/plugin.woocommerce.php:955
+#: plugins/plugin.woocommerce.php:1606
+msgid "SKU code of displayed product"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:911 plugins/plugin.woocommerce.php:960
+#: plugins/plugin.woocommerce.php:1614 plugins/plugin.woocommerce.php:1684
+msgid "ID"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:912 plugins/plugin.woocommerce.php:961
+#: plugins/plugin.woocommerce.php:1615
+msgid "ID of displayed product"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:917 plugins/plugin.woocommerce.php:977
+#: plugins/plugin.woocommerce.php:1003 plugins/plugin.woocommerce.php:1047
+#: plugins/plugin.woocommerce.php:1083 plugins/plugin.woocommerce.php:1127
+#: plugins/plugin.woocommerce.php:1171 plugins/plugin.woocommerce.php:1215
+#: plugins/plugin.woocommerce.php:1326 plugins/plugin.woocommerce.php:1382
+#: plugins/plugin.woocommerce.php:1623 plugins/plugin.woocommerce.php:1713
+#: plugins/plugin.woocommerce.php:1752 plugins/plugin.woocommerce.php:1813
+#: plugins/plugin.woocommerce.php:1864 plugins/plugin.woocommerce.php:1924
+#: plugins/plugin.woocommerce.php:1984 plugins/plugin.woocommerce.php:2044
+#: plugins/plugin.woocommerce.php:2196 plugins/plugin.woocommerce.php:2274
+msgid "Number"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:918 plugins/plugin.woocommerce.php:978
+#: plugins/plugin.woocommerce.php:1004 plugins/plugin.woocommerce.php:1048
+#: plugins/plugin.woocommerce.php:1084 plugins/plugin.woocommerce.php:1128
+#: plugins/plugin.woocommerce.php:1172 plugins/plugin.woocommerce.php:1216
+#: plugins/plugin.woocommerce.php:1327 plugins/plugin.woocommerce.php:1624
+#: plugins/plugin.woocommerce.php:1714 plugins/plugin.woocommerce.php:1753
+#: plugins/plugin.woocommerce.php:1814 plugins/plugin.woocommerce.php:1865
+#: plugins/plugin.woocommerce.php:1925 plugins/plugin.woocommerce.php:1985
+#: plugins/plugin.woocommerce.php:2045 plugins/plugin.woocommerce.php:2197
+msgid "How many products showed"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:924 plugins/plugin.woocommerce.php:1632
+msgid "Post type"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:925 plugins/plugin.woocommerce.php:1633
+msgid "Post type for the WP query (leave 'product')"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:930 plugins/plugin.woocommerce.php:1640
+msgid "Post status"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:931 plugins/plugin.woocommerce.php:1641
+msgid "Display posts only with this status"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:935 plugins/plugin.woocommerce.php:1644
+msgid "Publish"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:936 plugins/plugin.woocommerce.php:1645
+msgid "Protected"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:937 plugins/plugin.woocommerce.php:1646
+msgid "Private"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:938 plugins/plugin.woocommerce.php:1647
+msgid "Pending"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:939 plugins/plugin.woocommerce.php:1648
+msgid "Draft"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:948
+msgid "Woocommerce: Product"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:949 plugins/plugin.woocommerce.php:1665
+msgid "WooCommerce shortcode: display one product"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:971
+msgid "Woocommerce: Best Selling Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:972 plugins/plugin.woocommerce.php:1703
+msgid "WooCommerce shortcode: show best selling products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:984 plugins/plugin.woocommerce.php:1010
+#: plugins/plugin.woocommerce.php:1054 plugins/plugin.woocommerce.php:1090
+#: plugins/plugin.woocommerce.php:1134 plugins/plugin.woocommerce.php:1178
+#: plugins/plugin.woocommerce.php:1222 plugins/plugin.woocommerce.php:1289
+#: plugins/plugin.woocommerce.php:1333 plugins/plugin.woocommerce.php:1389
+#: plugins/plugin.woocommerce.php:1722 plugins/plugin.woocommerce.php:1762
+#: plugins/plugin.woocommerce.php:1822 plugins/plugin.woocommerce.php:1873
+#: plugins/plugin.woocommerce.php:1933 plugins/plugin.woocommerce.php:1993
+#: plugins/plugin.woocommerce.php:2053 plugins/plugin.woocommerce.php:2144
+#: plugins/plugin.woocommerce.php:2205 plugins/plugin.woocommerce.php:2283
+#: plugins/support.services.php:560 plugins/support.services.php:1005
+#: plugins/support.team.php:750 plugins/support.team.php:1214
+#: plugins/support.testimonials.php:487 plugins/support.testimonials.php:884
+msgid "Columns"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:985 plugins/plugin.woocommerce.php:1011
+#: plugins/plugin.woocommerce.php:1055 plugins/plugin.woocommerce.php:1091
+#: plugins/plugin.woocommerce.php:1135 plugins/plugin.woocommerce.php:1179
+#: plugins/plugin.woocommerce.php:1223 plugins/plugin.woocommerce.php:1290
+#: plugins/plugin.woocommerce.php:1334 plugins/plugin.woocommerce.php:1723
+#: plugins/plugin.woocommerce.php:1763 plugins/plugin.woocommerce.php:1823
+#: plugins/plugin.woocommerce.php:1874 plugins/plugin.woocommerce.php:1934
+#: plugins/plugin.woocommerce.php:1994 plugins/plugin.woocommerce.php:2054
+#: plugins/plugin.woocommerce.php:2145 plugins/plugin.woocommerce.php:2206
+msgid "How many columns per row use for products output"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:997
+msgid "Woocommerce: Recent Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:998 plugins/plugin.woocommerce.php:1742
+msgid "WooCommerce shortcode: show recent products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1018 plugins/plugin.woocommerce.php:1062
+#: plugins/plugin.woocommerce.php:1098 plugins/plugin.woocommerce.php:1142
+#: plugins/plugin.woocommerce.php:1186 plugins/plugin.woocommerce.php:1230
+#: plugins/plugin.woocommerce.php:1297 plugins/plugin.woocommerce.php:1341
+#: plugins/plugin.woocommerce.php:1397 plugins/plugin.woocommerce.php:1771
+#: plugins/plugin.woocommerce.php:1831 plugins/plugin.woocommerce.php:1882
+#: plugins/plugin.woocommerce.php:1942 plugins/plugin.woocommerce.php:2002
+#: plugins/plugin.woocommerce.php:2062 plugins/plugin.woocommerce.php:2153
+#: plugins/plugin.woocommerce.php:2214 plugins/plugin.woocommerce.php:2292
+msgid "Order by"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1019 plugins/plugin.woocommerce.php:1029
+#: plugins/plugin.woocommerce.php:1063 plugins/plugin.woocommerce.php:1099
+#: plugins/plugin.woocommerce.php:1109 plugins/plugin.woocommerce.php:1143
+#: plugins/plugin.woocommerce.php:1153 plugins/plugin.woocommerce.php:1187
+#: plugins/plugin.woocommerce.php:1197 plugins/plugin.woocommerce.php:1231
+#: plugins/plugin.woocommerce.php:1241 plugins/plugin.woocommerce.php:1298
+#: plugins/plugin.woocommerce.php:1308 plugins/plugin.woocommerce.php:1342
+#: plugins/plugin.woocommerce.php:1352 plugins/plugin.woocommerce.php:1398
+#: plugins/plugin.woocommerce.php:1408 plugins/plugin.woocommerce.php:1772
+#: plugins/plugin.woocommerce.php:1784 plugins/plugin.woocommerce.php:1832
+#: plugins/plugin.woocommerce.php:1883 plugins/plugin.woocommerce.php:1895
+#: plugins/plugin.woocommerce.php:1943 plugins/plugin.woocommerce.php:1955
+#: plugins/plugin.woocommerce.php:2003 plugins/plugin.woocommerce.php:2015
+#: plugins/plugin.woocommerce.php:2063 plugins/plugin.woocommerce.php:2075
+#: plugins/plugin.woocommerce.php:2154 plugins/plugin.woocommerce.php:2166
+#: plugins/plugin.woocommerce.php:2215 plugins/plugin.woocommerce.php:2227
+#: plugins/plugin.woocommerce.php:2293 plugins/plugin.woocommerce.php:2305
+msgid "Sorting order for products output"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1028 plugins/plugin.woocommerce.php:1108
+#: plugins/plugin.woocommerce.php:1152 plugins/plugin.woocommerce.php:1196
+#: plugins/plugin.woocommerce.php:1240 plugins/plugin.woocommerce.php:1307
+#: plugins/plugin.woocommerce.php:1351 plugins/plugin.woocommerce.php:1407
+#: plugins/plugin.woocommerce.php:1783 plugins/plugin.woocommerce.php:1894
+#: plugins/plugin.woocommerce.php:1954 plugins/plugin.woocommerce.php:2014
+#: plugins/plugin.woocommerce.php:2074 plugins/plugin.woocommerce.php:2165
+#: plugins/plugin.woocommerce.php:2226 plugins/plugin.woocommerce.php:2304
+msgid "Order"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1041
+msgid "Woocommerce: Related Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1042 plugins/plugin.woocommerce.php:1803
+msgid "WooCommerce shortcode: show related products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1077
+msgid "Woocommerce: Featured Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1078 plugins/plugin.woocommerce.php:1854
+msgid "WooCommerce shortcode: show featured products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1121
+msgid "Woocommerce: Top Rated Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1122 plugins/plugin.woocommerce.php:1914
+msgid "WooCommerce shortcode: show top rated products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1165
+msgid "Woocommerce: Sale Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1166 plugins/plugin.woocommerce.php:1974
+msgid "WooCommerce shortcode: list products on sale"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1209
+msgid "Woocommerce: Products from category"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1210 plugins/plugin.woocommerce.php:2034
+msgid "WooCommerce shortcode: list products in specified category(-ies)"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1249 plugins/plugin.woocommerce.php:2084
+msgid "Comma separated category slugs"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1254 plugins/plugin.woocommerce.php:2092
+msgid "Operator"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1255 plugins/plugin.woocommerce.php:2093
+msgid "Categories operator"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1260 plugins/plugin.woocommerce.php:2097
+msgid "IN"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1261 plugins/plugin.woocommerce.php:2098
+msgid "NOT IN"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1262 plugins/plugin.woocommerce.php:2099
+msgid "AND"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1271
+msgid "Woocommerce: Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1272 plugins/plugin.woocommerce.php:2116
+msgid "WooCommerce shortcode: list all products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1277 plugins/plugin.woocommerce.php:2126
+msgid "SKUs"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1278 plugins/plugin.woocommerce.php:2127
+msgid "Comma separated SKU codes of products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1283 plugins/plugin.woocommerce.php:1421
+#: plugins/plugin.woocommerce.php:2135 plugins/plugin.woocommerce.php:2322
+msgid "IDs"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1284 plugins/plugin.woocommerce.php:1422
+#: plugins/plugin.woocommerce.php:2136 plugins/plugin.woocommerce.php:2323
+msgid "Comma separated ID of products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1320
+msgid "Woocommerce: Products by Attribute"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1321 plugins/plugin.woocommerce.php:2186
+msgid "WooCommerce shortcode: show products with specified attribute"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1359 plugins/plugin.woocommerce.php:2235
+msgid "Attribute"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1360 plugins/plugin.woocommerce.php:2236
+msgid "Attribute name"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1365 plugins/plugin.woocommerce.php:2244
+msgid "Filter"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1366 plugins/plugin.woocommerce.php:2245
+msgid "Attribute value"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1376
+msgid "Woocommerce: Product Categories"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1377 plugins/plugin.woocommerce.php:2264
+msgid "WooCommerce shortcode: show categories with products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1383 plugins/plugin.woocommerce.php:2275
+msgid "How many categories showed"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1390 plugins/plugin.woocommerce.php:2284
+msgid "How many columns per row use for categories output"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1415 plugins/plugin.woocommerce.php:2313
+msgid "Parent"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1416 plugins/plugin.woocommerce.php:2314
+msgid "Parent category slug"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1427 plugins/plugin.woocommerce.php:2331
+msgid "Hide empty"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1428 plugins/plugin.woocommerce.php:2332
+msgid "Hide empty categories"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1454
+msgid "Cart"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1455
+msgid "WooCommerce shortcode: show cart page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1465 plugins/plugin.woocommerce.php:1493
+#: plugins/plugin.woocommerce.php:1521 plugins/plugin.woocommerce.php:1549
+#: plugins/plugin.woocommerce.php:1577
+msgid "Dummy data"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1466 plugins/plugin.woocommerce.php:1494
+#: plugins/plugin.woocommerce.php:1522 plugins/plugin.woocommerce.php:1550
+#: plugins/plugin.woocommerce.php:1578
+msgid "Dummy data - not used in shortcodes"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1483
+msgid "WooCommerce shortcode: show checkout page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1510
+msgid "My Account"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1511
+msgid "WooCommerce shortcode: show my account page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1538
+msgid "Order Tracking"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1539
+msgid "WooCommerce shortcode: show order tracking page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1566
+msgid "Shop Messages"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1594
+msgid "Product Page"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1664
+msgid "Product"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1676
+msgid "Product's SKU code"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1685
+msgid "Product's ID"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1702
+msgid "Best Selling Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1741
+msgid "Recent Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1802
+msgid "Related Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1853
+msgid "Featured Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1913
+msgid "Top Rated Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:1973
+msgid "Sale Products"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:2033
+msgid "Products from category"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:2185
+msgid "Products by Attribute"
+msgstr ""
+
+#: plugins/plugin.woocommerce.php:2263
+msgid "Product Categories"
+msgstr ""
+
+#: plugins/plugin.wp-gdpr-compliance.php:28
+msgid "WP GDPR Compliance"
+msgstr ""
+
+#: plugins/support.services.php:115 plugins/support.services.php:131
+msgid "All services"
+msgstr ""
+
+#: plugins/support.services.php:228 plugins/support.services.php:232
+#: plugins/support.team.php:412 templates/gallery.php:134
+msgid "Learn more"
+msgstr ""
+
+#: plugins/support.services.php:499 plugins/support.services.php:814
+msgid "Services"
+msgstr ""
+
+#: plugins/support.services.php:500
+msgid "Insert services list in your page (post)"
+msgstr ""
+
+#: plugins/support.services.php:506 plugins/support.services.php:965
+#: plugins/support.team.php:726 plugins/support.team.php:1174
+#: plugins/support.testimonials.php:463 plugins/support.testimonials.php:844
+msgid "Title for the block"
+msgstr ""
+
+#: plugins/support.services.php:511 plugins/support.services.php:974
+#: plugins/support.team.php:731 plugins/support.team.php:1183
+#: plugins/support.testimonials.php:468 plugins/support.testimonials.php:853
+msgid "Subtitle"
+msgstr ""
+
+#: plugins/support.services.php:512 plugins/support.services.php:975
+#: plugins/support.team.php:732 plugins/support.team.php:1184
+#: plugins/support.testimonials.php:469 plugins/support.testimonials.php:854
+msgid "Subtitle for the block"
+msgstr ""
+
+#: plugins/support.services.php:517 plugins/support.services.php:781
+#: plugins/support.services.php:983 plugins/support.team.php:737
+#: plugins/support.team.php:1021 plugins/support.team.php:1192
+#: plugins/support.testimonials.php:474 plugins/support.testimonials.php:862
+msgid "Description"
+msgstr ""
+
+#: plugins/support.services.php:518 plugins/support.team.php:738
+#: plugins/support.testimonials.php:475
+msgid "Short description for the block"
+msgstr ""
+
+#: plugins/support.services.php:523 plugins/support.services.php:826
+msgid "Services style"
+msgstr ""
+
+#: plugins/support.services.php:524 plugins/support.services.php:827
+msgid "Select style to display services list"
+msgstr ""
+
+#: plugins/support.services.php:530 plugins/support.services.php:531
+#: plugins/support.services.php:758 plugins/support.services.php:863
+msgid "Item's image"
+msgstr ""
+
+#: plugins/support.services.php:540 plugins/support.services.php:874
+msgid "Image alignment"
+msgstr ""
+
+#: plugins/support.services.php:541 plugins/support.services.php:875
+msgid "Alignment of the image"
+msgstr ""
+
+#: plugins/support.services.php:549 plugins/support.services.php:835
+msgid "Icon's type"
+msgstr ""
+
+#: plugins/support.services.php:550 plugins/support.services.php:836
+msgid "Select type of icons: font icon or image"
+msgstr ""
+
+#: plugins/support.services.php:555 plugins/support.services.php:840
+msgid "Icons"
+msgstr ""
+
+#: plugins/support.services.php:556 plugins/support.services.php:841
+msgid "Images"
+msgstr ""
+
+#: plugins/support.services.php:561 plugins/support.services.php:1006
+msgid "How many columns use to show services list"
+msgstr ""
+
+#: plugins/support.services.php:570 plugins/support.services.php:855
+#: plugins/support.team.php:760 plugins/support.team.php:1084
+#: plugins/support.testimonials.php:630 plugins/support.testimonials.php:962
+msgid "Select color scheme for this block"
+msgstr ""
+
+#: plugins/support.services.php:577 plugins/support.services.php:883
+msgid "Use slider to show services"
+msgstr ""
+
+#: plugins/support.services.php:583 plugins/support.services.php:893
+#: plugins/support.team.php:773 plugins/support.team.php:1102
+#: plugins/support.testimonials.php:503 plugins/support.testimonials.php:772
+msgid "Controls"
+msgstr ""
+
+#: plugins/support.services.php:584 plugins/support.services.php:894
+#: plugins/support.team.php:774 plugins/support.team.php:1103
+#: plugins/support.testimonials.php:504 plugins/support.testimonials.php:773
+msgid "Slider controls style and position"
+msgstr ""
+
+#: plugins/support.services.php:595 plugins/support.services.php:908
+#: plugins/support.team.php:785 plugins/support.team.php:1117
+#: plugins/support.testimonials.php:515 plugins/support.testimonials.php:787
+msgid "Space between slides"
+msgstr ""
+
+#: plugins/support.services.php:596 plugins/support.services.php:909
+#: plugins/support.team.php:786 plugins/support.team.php:1118
+#: plugins/support.testimonials.php:516 plugins/support.testimonials.php:788
+msgid "Size of space (in px) between slides"
+msgstr ""
+
+#: plugins/support.services.php:607 plugins/support.services.php:922
+#: plugins/support.team.php:797 plugins/support.team.php:1131
+#: plugins/support.testimonials.php:527 plugins/support.testimonials.php:801
+msgid "Slides change interval"
+msgstr ""
+
+#: plugins/support.services.php:608 plugins/support.services.php:923
+#: plugins/support.team.php:798 plugins/support.team.php:1132
+#: plugins/support.testimonials.php:528 plugins/support.testimonials.php:802
+msgid "Slides change interval (in milliseconds: 1000ms = 1s)"
+msgstr ""
+
+#: plugins/support.services.php:618 plugins/support.services.php:935
+#: plugins/support.team.php:808 plugins/support.team.php:1144
+#: plugins/support.testimonials.php:538 plugins/support.testimonials.php:814
+msgid "Autoheight"
+msgstr ""
+
+#: plugins/support.services.php:619 plugins/support.services.php:936
+#: plugins/support.team.php:809 plugins/support.team.php:1145
+#: plugins/support.testimonials.php:539 plugins/support.testimonials.php:815
+msgid "Change whole slider's height (make it equal current slide's height)"
+msgstr ""
+
+#: plugins/support.services.php:628 plugins/support.services.php:948
+#: plugins/support.team.php:818 plugins/support.team.php:1157
+#: plugins/support.testimonials.php:548 plugins/support.testimonials.php:827
+msgid "Alignment"
+msgstr ""
+
+#: plugins/support.services.php:629 plugins/support.services.php:949
+msgid "Alignment of the services block"
+msgstr ""
+
+#: plugins/support.services.php:638
+msgid ""
+"Allow get services items from inner shortcodes (custom) or get it from "
+"specified group (cat)"
+msgstr ""
+
+#: plugins/support.services.php:646
+msgid ""
+"Select categories (groups) to show services list. If empty - select services "
+"from any category (group) or from IDs list"
+msgstr ""
+
+#: plugins/support.services.php:658 plugins/support.services.php:1015
+#: plugins/support.team.php:848 plugins/support.team.php:1224
+#: plugins/support.testimonials.php:578 plugins/support.testimonials.php:894
+msgid "Number of posts"
+msgstr ""
+
+#: plugins/support.services.php:659 plugins/support.services.php:1016
+#: plugins/support.team.php:849 plugins/support.team.php:1225
+#: plugins/support.testimonials.php:579 plugins/support.testimonials.php:895
+msgid "How many posts will be displayed? If used IDs - this parameter ignored."
+msgstr ""
+
+#: plugins/support.services.php:669 plugins/support.services.php:1029
+#: plugins/support.team.php:859 plugins/support.team.php:1237
+#: plugins/support.testimonials.php:589 plugins/support.testimonials.php:907
+msgid "Offset before select posts"
+msgstr ""
+
+#: plugins/support.services.php:670 plugins/support.services.php:1030
+#: plugins/support.team.php:860 plugins/support.team.php:1238
+#: plugins/support.testimonials.php:590 plugins/support.testimonials.php:908
+msgid "Skip posts before select next part."
+msgstr ""
+
+#: plugins/support.services.php:679 plugins/support.team.php:869
+#: plugins/support.testimonials.php:599
+msgid "Post order by"
+msgstr ""
+
+#: plugins/support.services.php:680 plugins/support.services.php:1043
+#: plugins/support.team.php:870 plugins/support.team.php:1251
+#: plugins/support.testimonials.php:600 plugins/support.testimonials.php:921
+msgid "Select desired posts sorting method"
+msgstr ""
+
+#: plugins/support.services.php:689 plugins/support.services.php:1056
+#: plugins/support.team.php:879 plugins/support.team.php:1264
+#: plugins/support.testimonials.php:609 plugins/support.testimonials.php:934
+msgid "Post order"
+msgstr ""
+
+#: plugins/support.services.php:690 plugins/support.services.php:1057
+#: plugins/support.team.php:880 plugins/support.team.php:1265
+#: plugins/support.testimonials.php:610 plugins/support.testimonials.php:935
+msgid "Select desired posts order"
+msgstr ""
+
+#: plugins/support.services.php:700 plugins/support.team.php:890
+#: plugins/support.testimonials.php:620 plugins/support.testimonials.php:948
+msgid "Post IDs list"
+msgstr ""
+
+#: plugins/support.services.php:701 plugins/support.team.php:891
+#: plugins/support.testimonials.php:621 plugins/support.testimonials.php:949
+msgid ""
+"Comma separated list of posts ID. If set - parameters above are ignored!"
+msgstr ""
+
+#: plugins/support.services.php:709 plugins/support.services.php:775
+#: plugins/support.services.php:1083 plugins/support.services.php:1179
+#: templates/excerpt.php:99 templates/masonry.php:165
+msgid "Read more"
+msgstr ""
+
+#: plugins/support.services.php:710 plugins/support.services.php:776
+#: plugins/support.services.php:1084 plugins/support.services.php:1180
+msgid "Caption for the Read more link (if empty - link not showed)"
+msgstr ""
+
+#: plugins/support.services.php:715 plugins/support.services.php:1093
+#: plugins/support.team.php:899 plugins/support.team.php:1291
+msgid "Button URL"
+msgstr ""
+
+#: plugins/support.services.php:716 plugins/support.services.php:1094
+#: plugins/support.team.php:900 plugins/support.team.php:1292
+msgid "Link URL for the button at the bottom of the block"
+msgstr ""
+
+#: plugins/support.services.php:721 plugins/support.services.php:1102
+#: plugins/support.team.php:905 plugins/support.team.php:1300
+msgid "Button caption"
+msgstr ""
+
+#: plugins/support.services.php:722 plugins/support.services.php:1103
+#: plugins/support.team.php:906 plugins/support.team.php:1301
+msgid "Caption for the button at the bottom of the block"
+msgstr ""
+
+#: plugins/support.services.php:739 plugins/support.services.php:740
+msgid "Service item"
+msgstr ""
+
+#: plugins/support.services.php:745 plugins/support.services.php:1145
+msgid "Item's title"
+msgstr ""
+
+#: plugins/support.services.php:751
+msgid "Item's icon"
+msgstr ""
+
+#: plugins/support.services.php:752 plugins/support.services.php:1154
+msgid "Select icon for the item from Fontello icons set"
+msgstr ""
+
+#: plugins/support.services.php:759
+msgid "Item's image (if icon not selected)"
+msgstr ""
+
+#: plugins/support.services.php:769
+msgid "Link on service's item page"
+msgstr ""
+
+#: plugins/support.services.php:782
+msgid "Item's short description"
+msgstr ""
+
+#: plugins/support.services.php:815
+msgid "Insert services list"
+msgstr ""
+
+#: plugins/support.services.php:816 plugins/support.team.php:1064
+#: plugins/support.testimonials.php:742
+msgid "Content"
+msgstr ""
+
+#: plugins/support.services.php:847
+msgid "Equal height"
+msgstr ""
+
+#: plugins/support.services.php:848
+msgid "Make equal height for all items in the row"
+msgstr ""
+
+#: plugins/support.services.php:957
+msgid ""
+"Allow get services from inner shortcodes (custom) or get it from specified "
+"group (cat)"
+msgstr ""
+
+#: plugins/support.services.php:967 plugins/support.services.php:976
+#: plugins/support.services.php:985 plugins/support.services.php:1086
+#: plugins/support.services.php:1095 plugins/support.services.php:1104
+#: plugins/support.team.php:1176 plugins/support.team.php:1185
+#: plugins/support.team.php:1194 plugins/support.team.php:1293
+#: plugins/support.team.php:1302 plugins/support.testimonials.php:846
+#: plugins/support.testimonials.php:855 plugins/support.testimonials.php:864
+msgid "Captions"
+msgstr ""
+
+#: plugins/support.services.php:984 plugins/support.team.php:1193
+#: plugins/support.testimonials.php:863
+msgid "Description for the block"
+msgstr ""
+
+#: plugins/support.services.php:993
+msgid ""
+"Select category to show services. If empty - select services from any "
+"category (group) or from IDs list"
+msgstr ""
+
+#: plugins/support.services.php:994 plugins/support.services.php:1007
+#: plugins/support.services.php:1018 plugins/support.services.php:1031
+#: plugins/support.services.php:1044 plugins/support.services.php:1058
+#: plugins/support.services.php:1072 plugins/support.team.php:1203
+#: plugins/support.team.php:1216 plugins/support.team.php:1226
+#: plugins/support.team.php:1239 plugins/support.team.php:1252
+#: plugins/support.team.php:1266 plugins/support.team.php:1280
+#: plugins/support.testimonials.php:873 plugins/support.testimonials.php:886
+#: plugins/support.testimonials.php:896 plugins/support.testimonials.php:909
+#: plugins/support.testimonials.php:922 plugins/support.testimonials.php:936
+#: plugins/support.testimonials.php:950
+msgid "Query"
+msgstr ""
+
+#: plugins/support.services.php:1042 plugins/support.team.php:1250
+#: plugins/support.testimonials.php:920
+msgid "Post sorting"
+msgstr ""
+
+#: plugins/support.services.php:1070
+msgid "Service's IDs list"
+msgstr ""
+
+#: plugins/support.services.php:1071
+msgid ""
+"Comma separated list of service's ID. If set - parameters above (category, "
+"count, order, etc.)  are ignored!"
+msgstr ""
+
+#: plugins/support.services.php:1121
+msgid "Service item 1"
+msgstr ""
+
+#: plugins/support.services.php:1122
+msgid "Service item 2"
+msgstr ""
+
+#: plugins/support.services.php:1123
+msgid "Service item 3"
+msgstr ""
+
+#: plugins/support.services.php:1124
+msgid "Service item 4"
+msgstr ""
+
+#: plugins/support.services.php:1132
+msgid "Services item"
+msgstr ""
+
+#: plugins/support.services.php:1133
+msgid "Custom services item - all data pull out from shortcode parameters"
+msgstr ""
+
+#: plugins/support.services.php:1153
+msgid "Icon"
+msgstr ""
+
+#: plugins/support.services.php:1163
+msgid "Item's image (if icon is empty)"
+msgstr ""
+
+#: plugins/support.services.php:1171
+msgid "Link on item's page"
+msgstr ""
+
+#: plugins/support.team.php:45
+msgid "Team Member Details"
+msgstr ""
+
+#: plugins/support.team.php:52
+msgid "Position of the team member"
+msgstr ""
+
+#: plugins/support.team.php:57
+msgid "Birthday"
+msgstr ""
+
+#: plugins/support.team.php:58
+msgid "Birthday of the team member"
+msgstr ""
+
+#: plugins/support.team.php:64
+msgid "E-mail of the team member - need to take Gravatar (if registered)"
+msgstr ""
+
+#: plugins/support.team.php:70
+msgid "Phone of the team member"
+msgstr ""
+
+#: plugins/support.team.php:75 plugins/support.team.php:980
+msgid "Skype"
+msgstr ""
+
+#: plugins/support.team.php:76
+msgid "Skype of the team member"
+msgstr ""
+
+#: plugins/support.team.php:81
+msgid "Link to profile"
+msgstr ""
+
+#: plugins/support.team.php:82
+msgid "URL of the team member profile page (if not this page)"
+msgstr ""
+
+#: plugins/support.team.php:88
+msgid "Links to the social profiles of the team member"
+msgstr ""
+
+#: plugins/support.team.php:93
+msgid "Brief info"
+msgstr ""
+
+#: plugins/support.team.php:94
+msgid "Brief info about the team member"
+msgstr ""
+
+#: plugins/support.team.php:296 plugins/support.team.php:313
+msgid "All team"
+msgstr ""
+
+#: plugins/support.team.php:719 plugins/support.team.php:1062
+msgid "Team"
+msgstr ""
+
+#: plugins/support.team.php:720
+msgid "Insert team in your page (post)"
+msgstr ""
+
+#: plugins/support.team.php:743 plugins/support.team.php:1074
+msgid "Team style"
+msgstr ""
+
+#: plugins/support.team.php:744 plugins/support.team.php:1075
+msgid "Select style to display team members"
+msgstr ""
+
+#: plugins/support.team.php:751 plugins/support.team.php:1215
+msgid "How many columns use to show team members"
+msgstr ""
+
+#: plugins/support.team.php:767 plugins/support.team.php:1092
+msgid "Use slider to show team members"
+msgstr ""
+
+#: plugins/support.team.php:819 plugins/support.team.php:1158
+msgid "Alignment of the team block"
+msgstr ""
+
+#: plugins/support.team.php:828 plugins/support.team.php:1166
+msgid ""
+"Allow get team members from inner shortcodes (custom) or get it from "
+"specified group (cat)"
+msgstr ""
+
+#: plugins/support.team.php:836
+msgid ""
+"Select categories (groups) to show team members. If empty - select team "
+"members from any category (group) or from IDs list"
+msgstr ""
+
+#: plugins/support.team.php:923
+msgid "Member"
+msgstr ""
+
+#: plugins/support.team.php:924 plugins/support.team.php:935
+#: plugins/support.team.php:1329 plugins/support.team.php:1350
+msgid "Team member"
+msgstr ""
+
+#: plugins/support.team.php:928
+msgid "Registerd user"
+msgstr ""
+
+#: plugins/support.team.php:929 plugins/support.team.php:1342
+msgid ""
+"Select one of registered users (if present) or put name, position, etc. in "
+"fields below"
+msgstr ""
+
+#: plugins/support.team.php:936 plugins/support.team.php:1351
+msgid ""
+"Select one of team members (if present) or put name, position, etc. in "
+"fields below"
+msgstr ""
+
+#: plugins/support.team.php:943 plugins/support.team.php:1360
+msgid "Link on team member's personal page"
+msgstr ""
+
+#: plugins/support.team.php:950 plugins/support.team.php:1368
+msgid "Team member's name"
+msgstr ""
+
+#: plugins/support.team.php:961 plugins/support.team.php:1377
+msgid "Team member's position"
+msgstr ""
+
+#: plugins/support.team.php:971
+msgid "Team member's phone"
+msgstr ""
+
+#: plugins/support.team.php:981
+msgid "Team member's skype"
+msgstr ""
+
+#: plugins/support.team.php:991 plugins/support.team.php:1386
+msgid "Team member's e-mail"
+msgstr ""
+
+#: plugins/support.team.php:1000 plugins/support.testimonials.php:702
+#: plugins/support.testimonials.php:1058
+msgid "Photo"
+msgstr ""
+
+#: plugins/support.team.php:1001 plugins/support.team.php:1394
+msgid "Team member's photo (avatar)"
+msgstr ""
+
+#: plugins/support.team.php:1012 plugins/support.team.php:1402
+msgid ""
+"Team member's socials icons: name=url|name=url... For example: "
+"facebook=http://facebook.com/myaccount|twitter=http://twitter.com/myaccount"
+msgstr ""
+
+#: plugins/support.team.php:1022
+msgid "Team member's short description"
+msgstr ""
+
+#: plugins/support.team.php:1063
+msgid "Insert team members"
+msgstr ""
+
+#: plugins/support.team.php:1202
+msgid ""
+"Select category to show team members. If empty - select team members from "
+"any category (group) or from IDs list"
+msgstr ""
+
+#: plugins/support.team.php:1278
+msgid "Team member's IDs list"
+msgstr ""
+
+#: plugins/support.team.php:1279
+msgid ""
+"Comma separated list of team members's ID. If set - parameters above "
+"(category, count, order, etc.)  are ignored!"
+msgstr ""
+
+#: plugins/support.team.php:1319
+msgid "Member 1"
+msgstr ""
+
+#: plugins/support.team.php:1320
+msgid "Member 2"
+msgstr ""
+
+#: plugins/support.team.php:1321
+msgid "Member 4"
+msgstr ""
+
+#: plugins/support.team.php:1330
+msgid "Team member - all data pull out from it account on your site"
+msgstr ""
+
+#: plugins/support.team.php:1341
+msgid "Registered user"
+msgstr ""
+
+#: plugins/support.team.php:1393
+msgid "Member's Photo"
+msgstr ""
+
+#: plugins/support.testimonials.php:28
+msgid "Testimonial Details"
+msgstr ""
+
+#: plugins/support.testimonials.php:34
+msgid "Testimonial author"
+msgstr ""
+
+#: plugins/support.testimonials.php:35
+msgid "Name of the testimonial's author"
+msgstr ""
+
+#: plugins/support.testimonials.php:40
+msgid "Author's position"
+msgstr ""
+
+#: plugins/support.testimonials.php:41
+msgid "Position of the testimonial's author"
+msgstr ""
+
+#: plugins/support.testimonials.php:46
+msgid "Author's e-mail"
+msgstr ""
+
+#: plugins/support.testimonials.php:47
+msgid ""
+"E-mail of the testimonial's author - need to take Gravatar (if registered)"
+msgstr ""
+
+#: plugins/support.testimonials.php:52
+msgid "Testimonial link"
+msgstr ""
+
+#: plugins/support.testimonials.php:53
+msgid "URL of the testimonial source or author profile page"
+msgstr ""
+
+#: plugins/support.testimonials.php:456 plugins/support.testimonials.php:740
+msgid "Testimonials"
+msgstr ""
+
+#: plugins/support.testimonials.php:457
+msgid "Insert testimonials into post (page)"
+msgstr ""
+
+#: plugins/support.testimonials.php:480 plugins/support.testimonials.php:752
+msgid "Testimonials style"
+msgstr ""
+
+#: plugins/support.testimonials.php:481 plugins/support.testimonials.php:753
+msgid "Select style to display testimonials"
+msgstr ""
+
+#: plugins/support.testimonials.php:488 plugins/support.testimonials.php:885
+msgid "How many columns use to show testimonials"
+msgstr ""
+
+#: plugins/support.testimonials.php:497 plugins/support.testimonials.php:762
+msgid "Use slider to show testimonials"
+msgstr ""
+
+#: plugins/support.testimonials.php:549 plugins/support.testimonials.php:828
+msgid "Alignment of the testimonials block"
+msgstr ""
+
+#: plugins/support.testimonials.php:558 plugins/support.testimonials.php:836
+msgid ""
+"Allow get testimonials from inner shortcodes (custom) or get it from "
+"specified group (cat)"
+msgstr ""
+
+#: plugins/support.testimonials.php:566 plugins/support.testimonials.php:872
+msgid ""
+"Select categories (groups) to show testimonials. If empty - select "
+"testimonials from any category (group) or from IDs list"
+msgstr ""
+
+#: plugins/support.testimonials.php:637 plugins/support.testimonials.php:971
+msgid "Any background color for this section"
+msgstr ""
+
+#: plugins/support.testimonials.php:642 plugins/support.testimonials.php:979
+msgid "Background image URL"
+msgstr ""
+
+#: plugins/support.testimonials.php:643
+msgid "Select or upload image or write URL from other site for the background"
+msgstr ""
+
+#: plugins/support.testimonials.php:649 plugins/support.testimonials.php:988
+msgid "Overlay"
+msgstr ""
+
+#: plugins/support.testimonials.php:650 plugins/support.testimonials.php:989
+msgid "Overlay color opacity (from 0.0 to 1.0)"
+msgstr ""
+
+#: plugins/support.testimonials.php:658 plugins/support.testimonials.php:997
+msgid "Texture"
+msgstr ""
+
+#: plugins/support.testimonials.php:659
+msgid "Predefined texture style from 1 to 11. 0 - without texture."
+msgstr ""
+
+#: plugins/support.testimonials.php:679
+msgid "Item"
+msgstr ""
+
+#: plugins/support.testimonials.php:680
+msgid "Testimonials item (custom parameters)"
+msgstr ""
+
+#: plugins/support.testimonials.php:684 plugins/support.testimonials.php:1033
+#: templates/_parts/reviews-block.php:16
+msgid "Author"
+msgstr ""
+
+#: plugins/support.testimonials.php:685 plugins/support.testimonials.php:1034
+msgid "Name of the testimonmials author"
+msgstr ""
+
+#: plugins/support.testimonials.php:691 plugins/support.testimonials.php:1043
+msgid "Link URL to the testimonmials author page"
+msgstr ""
+
+#: plugins/support.testimonials.php:697
+msgid "E-mail of the testimonmials author (to get gravatar)"
+msgstr ""
+
+#: plugins/support.testimonials.php:703 plugins/support.testimonials.php:1059
+msgid ""
+"Select or upload photo of testimonmials author or write URL of photo from "
+"other site"
+msgstr ""
+
+#: plugins/support.testimonials.php:708
+msgid "Testimonials text"
+msgstr ""
+
+#: plugins/support.testimonials.php:709
+msgid "Current testimonials text"
+msgstr ""
+
+#: plugins/support.testimonials.php:741
+msgid "Insert testimonials slider"
+msgstr ""
+
+#: plugins/support.testimonials.php:963 plugins/support.testimonials.php:972
+#: plugins/support.testimonials.php:981 plugins/support.testimonials.php:990
+#: plugins/support.testimonials.php:999
+msgid "Colors and Images"
+msgstr ""
+
+#: plugins/support.testimonials.php:980
+msgid "Select background image from library for this section"
+msgstr ""
+
+#: plugins/support.testimonials.php:998
+msgid "Texture style from 1 to 11. Empty or 0 - without texture."
+msgstr ""
+
+#: plugins/support.testimonials.php:1021
+msgid "Testimonial"
+msgstr ""
+
+#: plugins/support.testimonials.php:1022
+msgid "Single testimonials item"
+msgstr ""
+
+#: plugins/support.testimonials.php:1051
+msgid "E-mail of the testimonmials author"
+msgstr ""
+
+#: searchform.php:1
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:1
+msgid "Search for:"
+msgstr ""
+
+#: templates/404.php:35
+msgid "404"
+msgstr ""
+
+#: templates/404.php:36
+msgid "The requested page cannot be found"
+msgstr ""
+
+#: templates/404.php:37
+#, php-format
+msgid ""
+"TAKE A MOMENT AND DO A SEARCH BELOW OR START FROM <a href=\"%s\">OUR "
+"HOMEPAGE</a>."
+msgstr ""
+
+#: templates/404.php:38
+msgid "Enter Keyword"
+msgstr ""
+
+#: templates/_parts/author-info.php:11
+msgid "About"
+msgstr ""
+
+#: templates/_parts/counters.php:11
+#, php-format
+msgid "Views - %s"
+msgstr ""
+
+#: templates/_parts/counters.php:20
+#, php-format
+msgid "Rating - %s"
+msgstr ""
+
+#: templates/_parts/counters.php:31 templates/_parts/counters.php:34
+#: templates/_parts/widgets-posts.php:98 templates/_parts/widgets-posts.php:101
+msgid "Like"
+msgstr ""
+
+#: templates/_parts/counters.php:31 templates/_parts/counters.php:35
+#: templates/_parts/widgets-posts.php:98 templates/_parts/widgets-posts.php:102
+msgid "Dislike"
+msgstr ""
+
+#: templates/_parts/counters.php:41
+#, php-format
+msgid "Comments - %s"
+msgstr ""
+
+#: templates/_parts/editor-area.php:27 templates/excerpt.php:16
+msgid "Excerpt"
+msgstr ""
+
+#: templates/_parts/post-info.php:26
+msgid "Started"
+msgstr ""
+
+#: templates/_parts/post-info.php:27
+msgid "Will start"
+msgstr ""
+
+#: templates/_parts/post-info.php:34 templates/_parts/widgets-posts.php:82
+#: templates/trx_blogger/date.php:52
+msgid "by"
+msgstr ""
+
+#: templates/_parts/post-info.php:39 templates/single-portfolio.php:96
+#: templates/trx_blogger/plain.php:33
+msgid "in"
+msgstr ""
+
+#: templates/_parts/post-info.php:57
+msgid "Edit post"
+msgstr ""
+
+#: templates/_parts/prev-next-block.php:53 templates/attachment.php:53
+msgid "Previous item"
+msgstr ""
+
+#: templates/_parts/prev-next-block.php:65 templates/attachment.php:65
+msgid "Next item"
+msgstr ""
+
+#: templates/_parts/related-posts.php:63
+msgid "Related Posts"
+msgstr ""
+
+#: templates/_parts/reviews-block.php:17
+msgid "Users"
+msgstr ""
+
+#: templates/_parts/reviews-block.php:47
+#, php-format
+msgid "Summary rating from <b>%s</b> user's marks."
+msgstr ""
+
+#: templates/_parts/reviews-block.php:50
+msgid ""
+"You can set own marks for this article - just click on stars above and press "
+"\"Accept\"."
+msgstr ""
+
+#: templates/_parts/reviews-block.php:51
+msgid "Thanks for your vote!"
+msgstr ""
+
+#: templates/attachment.php:16
+msgid "Attachment page layout"
+msgstr ""
+
+#: templates/attachment.php:17 templates/single-portfolio.php:19
+msgid "Fullwidth image"
+msgstr ""
+
+#: templates/attachment.php:91
+msgid "No image description ..."
+msgstr ""
+
+#: templates/attachment.php:93 templates/single-portfolio.php:87
+#: templates/single-standard.php:133 templates/single-team.php:131
+msgid "Pages:"
+msgstr ""
+
+#: templates/attachment.php:102 templates/single-standard.php:142
+#: templates/single-team.php:140
+msgid "Tags:"
+msgstr ""
+
+#: templates/excerpt.php:17
+msgid "Large image (crop)"
+msgstr ""
+
+#: templates/gallery.php:103 templates/portfolio.php:300
+#: templates/portfolio.php:441
+msgid "NEW"
+msgstr ""
+
+#: templates/headers/_parts/header-mobile.php:42
+#: templates/headers/_parts/top-panel-top.php:146
+msgid "Logout"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:61
+msgid "Dollar"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:62
+msgid "Euro"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:63
+msgid "Pounds"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:98
+msgid "Bookmarks"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:104
+msgid "Add the current page into bookmarks"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:104
+msgid "Add bookmark"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:141
+msgid "New post"
+msgstr ""
+
+#: templates/headers/_parts/top-panel-top.php:143
+msgid "Settings"
+msgstr ""
+
+#: templates/headers/header_1.php:16
+msgid "Header 1"
+msgstr ""
+
+#: templates/headers/header_1.php:18 templates/headers/header_7.php:18
+msgid "Original image"
+msgstr ""
+
+#: templates/headers/header_4.php:16
+msgid "Header 4"
+msgstr ""
+
+#: templates/headers/header_5.php:16
+msgid "Header 5"
+msgstr ""
+
+#: templates/headers/header_6.php:16
+msgid "Header 6"
+msgstr ""
+
+#: templates/headers/header_7.php:16
+msgid "Header 7"
+msgstr ""
+
+#: templates/masonry.php:54
+msgid "Classic tile (equal height) /2 columns/"
+msgstr ""
+
+#: templates/masonry.php:55 templates/masonry.php:65
+#: templates/trx_recent_news/news-excerpt.php:18
+#: templates/trx_recent_news/news-magazine.php:18
+#: templates/trx_recent_news/news-portfolio.php:18
+#: templates/trx_services/services-1.php:18
+msgid "Medium image (crop)"
+msgstr ""
+
+#: templates/masonry.php:64
+msgid "Classic tile /3 columns/"
+msgstr ""
+
+#: templates/masonry.php:74
+msgid "Classic tile /4 columns/"
+msgstr ""
+
+#: templates/masonry.php:75
+msgid "Medium image (crop) 445x445"
+msgstr ""
+
+#: templates/no-articles.php:16
+msgid "No articles found"
+msgstr ""
+
+#: templates/no-articles.php:27
+msgid "No posts found"
+msgstr ""
+
+#: templates/no-articles.php:28
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#: templates/no-articles.php:29 templates/no-search.php:29
+#, php-format
+msgid ""
+"Go back, or return to <a href=\"%s\">%s</a> home page to choose a new page."
+msgstr ""
+
+#: templates/no-articles.php:30 templates/no-search.php:30
+msgid "Please report any broken links to our team."
+msgstr ""
+
+#: templates/no-search.php:16
+msgid "No search results found"
+msgstr ""
+
+#: templates/portfolio.php:329 templates/portfolio.php:456
+msgid "Country: "
+msgstr ""
+
+#: templates/portfolio.php:330 templates/portfolio.php:457
+msgid "Club: "
+msgstr ""
+
+#: templates/portfolio.php:331 templates/portfolio.php:458
+msgid "Age: "
+msgstr ""
+
+#: templates/portfolio.php:355
+msgid "LEARN MORE"
+msgstr ""
+
+#: templates/related.php:18
+msgid "Related posts /no columns/"
+msgstr ""
+
+#: templates/related.php:19 templates/related.php:30 templates/related.php:41
+#: templates/related.php:52
+msgid "Medium square image (crop)"
+msgstr ""
+
+#: templates/related.php:29
+msgid "Related posts /2 columns/"
+msgstr ""
+
+#: templates/related.php:40
+msgid "Related posts /3 columns/"
+msgstr ""
+
+#: templates/related.php:51
+msgid "Related posts /4 columns/"
+msgstr ""
+
+#: templates/single-portfolio.php:18
+msgid "Portfolio item"
+msgstr ""
+
+#: templates/single-standard.php:18
+msgid "Single standard"
+msgstr ""
+
+#: templates/single-standard.php:19
+msgid "Fullwidth image (crop)"
+msgstr ""
+
+#: templates/single-team.php:18
+msgid "Single Team member"
+msgstr ""
+
+#: templates/single-team.php:19
+msgid "Large image (crop) 570x525"
+msgstr ""
+
+#: templates/single-team.php:84
+msgid "Phone: "
+msgstr ""
+
+#: templates/single-team.php:87
+msgid "Skype: "
+msgstr ""
+
+#: templates/single-team.php:90
+msgid "E-mail: "
+msgstr ""
+
+#: templates/single-team.php:93
+msgid "Date Of Birth: "
+msgstr ""
+
+#: templates/trx_blogger/accordion.php:18
+msgid "Blogger layout: Accordion"
+msgstr ""
+
+#: templates/trx_blogger/accordion.php:48
+msgid "Posted by"
+msgstr ""
+
+#: templates/trx_blogger/accordion.php:68
+msgid "READ MORE"
+msgstr ""
+
+#: templates/trx_blogger/date.php:16
+msgid "Blogger layout: Timeline"
+msgstr ""
+
+#: templates/trx_blogger/list.php:17
+msgid "Blogger layout: List"
+msgstr ""
+
+#: templates/trx_blogger/plain.php:18
+msgid "Blogger layout: Plain"
+msgstr ""
+
+#: templates/trx_form/form_1.php:16
+msgid "Contact Form 1"
+msgstr ""
+
+#: templates/trx_form/form_1.php:44 templates/trx_form/form_2.php:44
+msgid "Name *"
+msgstr ""
+
+#: templates/trx_form/form_1.php:55 templates/trx_form/form_2.php:55
+msgid "E-mail *"
+msgstr ""
+
+#: templates/trx_form/form_1.php:66 templates/trx_form/form_1.php:74
+#: templates/trx_form/form_2.php:66 templates/trx_form/form_2.php:74
+msgid "Subject"
+msgstr ""
+
+#: templates/trx_form/form_1.php:77 templates/trx_form/form_1.php:85
+#: templates/trx_form/form_2.php:77 templates/trx_form/form_2.php:85
+msgid "Message"
+msgstr ""
+
+#: templates/trx_form/form_1.php:105 templates/trx_form/form_2.php:105
+msgid "Send"
+msgstr ""
+
+#: templates/trx_form/form_2.php:16
+msgid "Contact Form 2"
+msgstr ""
+
+#: templates/trx_form/form_custom.php:16
+msgid "Custom Form"
+msgstr ""
+
+#: templates/trx_recent_news/news-announce.php:17
+msgid "Recent News /Style Announce/"
+msgstr ""
+
+#: templates/trx_recent_news/news-excerpt.php:17
+msgid "Recent News /Style Excerpt/"
+msgstr ""
+
+#: templates/trx_recent_news/news-magazine.php:17
+msgid "Recent News /Style Magazine/"
+msgstr ""
+
+#: templates/trx_recent_news/news-portfolio.php:17
+msgid "Recent News /Style Portfolio/"
+msgstr ""
+
+#: templates/trx_services/services-1.php:17
+msgid "Services /Style 1/"
+msgstr ""
+
+#: templates/trx_team/team-1.php:17
+msgid "Team /Style 1/"
+msgstr ""
+
+#: templates/trx_team/team-1.php:18
+msgid "Medium square image (crop) 370x375"
+msgstr ""
+
+#: templates/trx_testimonials/testimonials-1.php:17
+msgid "Testimonials /Style 1/"
+msgstr ""
+
+#: templates/trx_testimonials/testimonials-1.php:18
+msgid "Avatar (small)"
+msgstr ""
